@@ -1,0 +1,927 @@
+Billing html 
+<div data-box="true" data-secondsdelay="" id="imezag">
+  <h3
+    data-text="text"
+    data-ch-type="text"
+    id="cc-id-TWAOQ22tBqMe"
+    data-secondsdelay=""
+  >
+    Billing Address
+  </h3>
+  <label
+    id="iryvkj"
+    data-secondsdelay=""
+    class="form-check-label address-label same fk-form-radio-button-parent"
+    ><div data-secondsdelay="" id="iupy1w" class="form-check">
+      <input
+        type="radio"
+        value=""
+        opencheckboxsection="billingAddress"
+        onclick="checkBoxChange(attributes)"
+        name="billShipSame"
+        id="in2eyz"
+        checked="true"
+        class="fk-form-general-radio-checkbox cc-same-as-shipping fk-form-radio active"
+      />
+      Same as shipping address
+    </div></label
+  ><label
+    data-secondsdelay=""
+    id="i9stjh"
+    class="form-check-label address-label different fk-form-radio-button-parent"
+    ><div data-secondsdelay="" id="i938me" class="form-check">
+      <input
+        type="radio"
+        value=""
+        opencheckboxsection="billingAddress"
+        onclick="checkBoxChange(attributes)"
+        name="billShipSame"
+        id="ifvj32"
+        class="fk-form-general-radio-checkbox fk-form-radio"
+      />
+      Use a different billing address
+    </div></label
+  >
+  <div data-secondsdelay="" id="billingAddress" class="p-0 bsFlexWrapClass">
+    <div data-secondsdelay="" id="izu8lp" class="col-12 field">
+      <div data-secondsdelay="" id="ii092i" class="select-wrap">
+        <select
+          name="country"
+          aria-required="true"
+          aria-invalid="false"
+          type="select"
+          customval=""
+          value=""
+          id="i1balf"
+          required="false"
+          class="form-control ch-select ch-dirty pristine untouched valid fk-form-select"
+        >
+          <option
+            data-text="text"
+            value=""
+            data-secondsdelay=""
+            id="cc-id-xlAChBxGkcCm"
+          >
+            Select Country
+          </option>
+        </select>
+        <div
+          data-text="text"
+          data-secondsdelay=""
+          id="cc-id-ctC2TXi39SK3"
+          class="ch-select-arrow"
+        ></div>
+        <div data-secondsdelay="" id="cc-id-FOaoYgF3HDhY" class="text-danger">
+          <span data-text="text" id="cc-id-80ZSpGGtovhK"></span>
+        </div>
+      </div>
+    </div>
+    <div data-secondsdelay="" id="ic976b" class="col-12 col-xl-6 pr-xl-0 field">
+      <div data-secondsdelay="" id="i37kpd" class="input-wrap">
+        <input
+          name="firstName"
+          type="text"
+          aria-required="true"
+          aria-invalid="false"
+          placeholder="First name "
+          id="i5and6"
+          customval=""
+          class="form-control ch-input pristine untouched"
+        /><label
+          for="shipping_first_name"
+          id="cc-id-qndc8uYQEAd5"
+          class="input-label"
+        ></label>
+        <div data-secondsdelay="" id="cc-id-zOXwDsvK4EA5" class="text-danger">
+          <span data-text="text" id="cc-id-FZtI2bolisvQ"></span>
+        </div>
+      </div>
+    </div>
+    <div data-secondsdelay="" id="i9owsl" class="col-12 col-xl-6 field">
+      <div data-secondsdelay="" id="ixtamu" class="input-wrap">
+        <input
+          name="lastName"
+          type="text"
+          aria-required="true"
+          aria-invalid="false"
+          placeholder="Last name"
+          id="iopnrv"
+          customval=""
+          class="form-control ch-input pristine untouched"
+        /><label
+          for="shipping_last_name"
+          id="cc-id-ORcH6RqnZ3e3"
+          class="input-label"
+        ></label>
+        <div data-secondsdelay="" id="cc-id-mUM1fQmkHFo1" class="text-danger">
+          <span data-text="text" id="cc-id-oBk4u45rYCvB"></span>
+        </div>
+      </div>
+    </div>
+    <div data-secondsdelay="" id="ig7p1s" class="col-12 field">
+      <div data-secondsdelay="" id="ihpbd3" class="input-wrap">
+        <input
+          name="address1"
+          type="text"
+          placeholder="Address"
+          aria-required="true"
+          aria-invalid="false"
+          id="i66y9z"
+          customval=""
+          class="form-control ch-input pristine untouched pac-target-input"
+        /><label
+          for="shipping_address1"
+          id="cc-id-ce4Ye9RMT3Yc"
+          class="input-label"
+        ></label>
+        <div data-secondsdelay="" id="cc-id-UHMHnnZ2UL2q" class="text-danger">
+          <span data-text="text" id="cc-id-pmTIP7sHiWrO"></span>
+        </div>
+      </div>
+    </div>
+    <div data-secondsdelay="" id="id6yqh" class="col-12 field">
+      <div data-secondsdelay="" id="i59my9" class="input-wrap">
+        <input
+          name="address2"
+          type="text"
+          aria-required="false"
+          aria-invalid="false"
+          placeholder="Apartment, suite, etc. (optional)"
+          id="iawohj"
+          customval=""
+          class="form-control ch-input pristine untouched"
+        /><label
+          for="shipping_address2"
+          id="cc-id-BBIPTSaGu0ZC"
+          class="input-label"
+        ></label>
+        <div data-secondsdelay="" id="cc-id-owEYHHMpvqEK" class="text-danger">
+          <span data-text="text" id="cc-id-w97UqBUhemW6"></span>
+        </div>
+      </div>
+    </div>
+    <div data-secondsdelay="" id="itms4i" class="field col-lg-4">
+      <div data-secondsdelay="" id="ixer3o" class="input-wrap">
+        <input
+          name="city"
+          type="text"
+          aria-required="true"
+          aria-invalid="false"
+          placeholder="City"
+          id="ikcbuh"
+          customval=""
+          class="form-control ch-input pristine untouched"
+        /><label
+          for="shipping_city"
+          id="cc-id-sWt3HSSsFrPl"
+          class="input-label"
+        ></label>
+        <div data-secondsdelay="" id="cc-id-DwxVnKx47EAU" class="text-danger">
+          <span data-text="text" id="cc-id-2MgZEl67pWTr"></span>
+        </div>
+      </div>
+    </div>
+    <div data-secondsdelay="" id="ieosem" class="pr-xl-0 field col-lg-4">
+      <div data-secondsdelay="" id="i7i0tx" class="select-wrap">
+        <select
+          name="state"
+          aria-required="true"
+          aria-invalid="false"
+          type="select"
+          customval=""
+          value=""
+          id="i5ms0z"
+          required="false"
+          class="form-control ch-select ch-dirty pristine untouched fk-form-select"
+        >
+          <option
+            data-text="text"
+            value=""
+            data-secondsdelay=""
+            id="cc-id-Z6JNG6Y6Q0Nu"
+          >
+            Select state
+          </option>
+        </select>
+        <div
+          data-text="text"
+          data-secondsdelay=""
+          id="cc-id-mvWm8vJtjDgk"
+          class="ch-select-arrow"
+        ></div>
+        <div data-secondsdelay="" id="cc-id-z0PKQbsLwi4V" class="text-danger">
+          <span data-text="text" id="cc-id-yojVXsQoAEmx"></span>
+        </div>
+      </div>
+    </div>
+    <div data-secondsdelay="" id="iwtcs8" class="field col-lg-4">
+      <div data-secondsdelay="" id="iukz8u" class="input-wrap">
+        <input
+          data-vv-validate-on="blur"
+          name="postalCode"
+          pattern="[0-9-]*"
+          type="text"
+          aria-required="true"
+          aria-invalid="true"
+          placeholder="Postal code"
+          id="iv7p0f"
+          customval=""
+          class="form-control ch-input pristine untouched"
+        /><label
+          for="shipping_zip"
+          id="cc-id-DLHrBlTvaHRK"
+          class="input-label"
+        ></label>
+        <div data-secondsdelay="" id="cc-id-h0Nmqqq3Hdk8" class="text-danger">
+          <span data-text="text" id="cc-id-d0SrL9Oorcwn"></span>
+        </div>
+      </div>
+    </div>
+    <div data-secondsdelay="" id="i7ejms" class="col-12">
+      <ul
+        id="cc-id-QAN8Ezz4hIfQ"
+        class="bordered-ul with-hover confirm-text-form"
+      >
+        <li id="cc-id-BfmMKsu6ftNZ">
+          <label id="cc-id-WF75jz8kHq0t" class="info-summary-line"
+            ><span
+              id="cc-id-vVoU04CKlYRr"
+              class="ch-custom-label absolute-left padding-left-20 unchangeable"
+            ></span
+          ></label>
+        </li>
+      </ul>
+    </div>
+    <div
+      data-text="text"
+      data-secondsdelay=""
+      id="cc-id-GIRRblLu0DW7"
+      class="clearfix"
+    ></div>
+  </div>
+</div>
+ Billing CSS .padding-left-20 {
+  padding-left: 20px;
+}
+.select-wrap {
+  position: relative;
+  width: 100%;
+  margin-bottom: 12px;
+}
+#ii092i {
+  margin-bottom: 1px;
+}
+#izu8lp {
+  padding-left: 6px;
+  padding-right: 6px;
+  display: block;
+  align-items: center;
+  justify-content: flex-end;
+}
+#i37kpd {
+  margin-bottom: 1px;
+  padding-right: 1px;
+  padding-left: 1px;
+}
+#ixtamu {
+  margin-bottom: 1px;
+}
+#i9owsl {
+  padding-right: 6px;
+}
+#ihpbd3 {
+  margin-bottom: 1px;
+}
+#ig7p1s {
+  padding-right: 6px;
+  padding-left: 6px;
+}
+#i59my9 {
+  margin-bottom: 1px;
+}
+#ixer3o {
+  margin-bottom: 1px;
+}
+#iukz8u {
+  margin-bottom: 1px;
+}
+#i5ms0z {
+  padding-top: 7.5px;
+  border-color: rgb(222, 222, 222);
+}
+#i7i0tx {
+  margin-bottom: 1px;
+}
+#i7ejms {
+  display: none;
+}
+#billingAddress {
+  padding-left: 1px;
+  padding-right: 1px;
+  width: 100%;
+  border-style: solid;
+  border-width: 0px 1px 1px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  background-color: rgb(250, 250, 250);
+  border-color: rgb(222, 222, 222);
+}
+#ic976b {
+  padding-left: 6px;
+}
+#id6yqh {
+  padding-left: 6px;
+  padding-right: 6px;
+}
+#itms4i {
+  padding-left: 6px;
+}
+#iwtcs8 {
+  padding-right: 6px;
+}
+#imezag {
+  padding: 12px 6px;
+  width: 100%;
+}
+#ifvj32 {
+  height: 18px;
+  margin-left: 5px;
+  width: 18px;
+}
+#i938me {
+  justify-content: flex-start;
+  padding-left: 10px;
+  width: 100%;
+  align-items: center;
+  display: flex;
+}
+#i9stjh {
+  width: 100%;
+  display: flex;
+  border-radius: 0px 0px 4px 4px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(222, 222, 222);
+  justify-content: center;
+  align-items: center;
+}
+.bsFlexWrapClass {
+  flex-wrap: wrap;
+}
+#ikcbuh {
+  border-color: rgb(222, 222, 222);
+}
+#iv7p0f {
+  border-color: rgb(222, 222, 222);
+}
+#i5and6 {
+  border-color: rgb(222, 222, 222);
+}
+#iopnrv {
+  border-color: rgb(222, 222, 222);
+}
+#i66y9z {
+  border-color: rgb(222, 222, 222);
+}
+#iawohj {
+  border-color: rgb(222, 222, 222);
+}
+#cc-id-TWAOQ22tBqMe {
+  font-size: 21px;
+  line-height: 1.3em;
+  text-align: left;
+  font-weight: 600;
+  margin-bottom: 14px;
+  padding-left: 6px;
+  margin-top: 0px;
+  font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, "sans-serif", "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "sans-serif";
+  color: rgb(51, 51, 51);
+}
+.fk-form-general-radio-checkbox {
+  margin-right: 5px;
+  position: inherit;
+}
+#in2eyz {
+  height: 18px;
+  margin-left: 5px;
+  width: 18px;
+}
+#iupy1w {
+  justify-content: flex-start;
+  padding-left: 10px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+#iryvkj {
+  width: 100%;
+  display: flex;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(222, 222, 222);
+}
+.fk-form-radio-button-parent:has([name="shipProfileId"]:checked) {
+  background-color: rgb(242, 247, 255);
+  border: 1px solid rgb(24, 115, 176) !important;
+}
+.fk-form-radio-button-parent:has([name="billShipSame"]:checked) {
+  background-color: rgb(242, 247, 255);
+  border: 1px solid rgb(24, 115, 176) !important;
+}
+.fk-form-radio-button-parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text-danger {
+  display: none;
+  padding-top: 4px;
+  color: rgb(246, 108, 105);
+  font-size: 14px;
+}
+.input-wrap {
+  position: relative;
+  width: 100%;
+  margin-bottom: 12px;
+}
+.input-wrap .input-label {
+  pointer-events: none;
+  overflow: hidden;
+  position: absolute;
+  top: 15px;
+  left: 0px;
+  width: calc(100% - 13px);
+  padding-left: 13px;
+  padding-right: 13px;
+  font-size: 14px;
+  font-weight: normal;
+  white-space: nowrap;
+  color: rgb(153, 153, 153);
+}
+.field {
+  width: 100%;
+  float: left;
+  padding: 0.428571em;
+  box-sizing: border-box;
+}
+#i1balf {
+  padding-top: 1px;
+  border-color: rgb(222, 222, 222);
+}
+.select-wrap .ch-select.ch-dirty {
+  padding-top: 22px;
+}
+.select-wrap .ch-select {
+  padding-right: 32px;
+}
+.select-wrap .ch-select-arrow {
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+  top: 0px;
+  right: 0px;
+  width: 30px;
+  height: 50px;
+  line-height: 50px;
+  border-left: 1px solid rgb(217, 217, 217);
+  text-align: center;
+}
+.select-wrap .ch-select-arrow::before {
+  content: "";
+  display: block;
+  position: relative;
+  top: 50%;
+  width: 0px;
+  height: 0px;
+  margin: auto;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-top: 4px solid rgb(115, 115, 115);
+  transform: translateY(-50%);
+}
+.input-wrap .ch-input,
+.select-wrap .ch-select {
+  appearance: none;
+  outline: none;
+  width: 100%;
+  height: 50px;
+  border: 1px solid rgb(217, 217, 217);
+  color: rgb(51, 51, 51);
+  font-size: 14px;
+}
+.input-wrap .ch-input:focus,
+.select-wrap .ch-select:focus {
+  outline: none;
+  border-color: rgb(25, 123, 189);
+  box-shadow: rgb(25, 123, 189) 0px 0px 0px 1px;
+}
+.form-control-custom {
+  display: block;
+  width: 100%;
+  padding: 12px 18px;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: rgb(73, 80, 87);
+  background-color: rgb(255, 255, 255);
+  background-clip: padding-box;
+  border: 1px solid rgb(206, 212, 218);
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+  Payment HTML
+<div
+  id="cc-id-tbm4esx4mrIR"
+  data-secondsdelay=""
+  class="fk-payment-option-container"
+>
+  <input
+    opencheckboxsection="fkCreditCard"
+    type="radio"
+    name="fk-payment-option-toggler"
+    id="card-radio"
+    onclick="checkBoxChange(attributes)"
+    checked="true"
+    value=""
+    class="fk-form-radio fk-payment-option-toggler-field"
+  /><label
+    id="cc-id-JBy7QDKpCf0Z"
+    for="card-radio"
+    class="fk-payment-option-header-wrapper"
+    ><div
+      id="cc-id-yCXCYWM6JH0G"
+      data-secondsdelay=""
+      class="fk-payment-option-header-container"
+    >
+      <div
+        id="cc-id-yjVyLrCdxGJw"
+        data-secondsdelay=""
+        class="fk-payment-option-label"
+      >
+        <div id="cc-id-nd9teGhG5bWd" data-secondsdelay="" class="fk-headline">
+          Credit Card
+        </div>
+      </div>
+      <div
+        id="cc-id-gg2rENcveWlH"
+        data-secondsdelay=""
+        class="fk-card-payment-bg-icon-container"
+      >
+        <div
+          id="cc-id-EbDxcTahTwJo"
+          data-secondsdelay=""
+          class="fk-card-payment-bg-icon fk-background fk-card-one"
+        ></div>
+        <div
+          id="cc-id-J8JhbN2TdDWc"
+          data-secondsdelay=""
+          class="fk-card-payment-bg-icon fk-background fk-card-two"
+        ></div>
+        <div
+          id="cc-id-tVW9RyUuYQFI"
+          data-secondsdelay=""
+          class="fk-card-payment-bg-icon fk-background fk-card-three"
+        ></div>
+        <div
+          id="cc-id-xrG9jFRSi07N"
+          data-secondsdelay=""
+          class="fk-card-payment-bg-icon fk-background fk-card-four"
+        ></div>
+      </div></div
+  ></label>
+  <div
+    id="fkCreditCard"
+    data-secondsdelay=""
+    class="fk-payment-option-body fk-payment-options-hide-on-load"
+  >
+    <form id="cc-id-plGg3M8n0cvb" class="fk-card-payment-container">
+      <div id="cc-id-QAnpGIhC5eAj" data-secondsdelay="">
+        <div
+          id="cc-id-3LiH6wVK3I3n"
+          data-secondsdelay=""
+          class="fk-card-payment-field fk-card-number"
+        >
+          <div
+            id="cc-id-N6ObUNDGqdii-2"
+            data-secondsdelay=""
+            class="fk-card-payment-field-icon"
+          >
+            <i
+              id="cc-id-VopQ0DoWuhkk"
+              class="fa fa-lock fa-icon icp icp-auto"
+            ></i>
+          </div>
+          <input
+            placeholder="Card Number"
+            name="cardNumber"
+            type="text"
+            required="true"
+            id="cc-id-VA1eL5wPMM49"
+            customval=""
+            maxlength="16"
+          />
+        </div>
+      </div>
+      <div
+        id="cc-id-I6x5Axq0xNqC"
+        data-secondsdelay=""
+        class="fk-card-multiple-payment-field"
+      >
+        <div
+          id="cc-id-r79gPS0fWIrq"
+          data-secondsdelay=""
+          class="fk-card-payment-field"
+        >
+          <input
+            placeholder="Expiration date (MM / YY)"
+            name="cardDate"
+            type="text"
+            required="true"
+            id="cc-id-OrjapQMwHrBU"
+            customval=""
+            maxlength="5"
+          />
+        </div>
+        <div
+          id="cc-id-jT7L5bRtLQYS"
+          data-secondsdelay=""
+          class="fk-card-payment-field"
+        >
+          <div
+            id="cc-id-N6ObUNDGqdii-3"
+            data-secondsdelay=""
+            class="fk-card-payment-field-icon"
+          >
+            <div
+              data-box="true"
+              data-secondsdelay=""
+              id="cc-id-CI4UVhQgIh99-2"
+              data-element-absolute="true"
+              class="tooltipper5"
+            >
+              <div
+                data-text="text"
+                data-secondsdelay=""
+                id="cc-id-rXxus7AxHcFx-2"
+              >
+                <i
+                  aria-hidden="true"
+                  id="cc-id-nX3B8g7KrVOx-2"
+                  class="far fa-question-circle icp icp-auto"
+                ></i>
+                <div
+                  data-text="text"
+                  data-secondsdelay=""
+                  id="cc-id-JPsFK1nswz4R-2"
+                  class="tooltipper5box"
+                >
+                  3-digit security code usually found on the back of your card.
+                  American Express cards have a 4-digit code located on the
+                  front.
+                </div>
+              </div>
+            </div>
+          </div>
+          <input
+            placeholder="Security code"
+            name="cardSecurityCode"
+            type="text"
+            required="true"
+            id="cc-id-GqI0jr5NRSOL"
+            customval=""
+            maxlength="4"
+          />
+        </div>
+      </div>
+    </form>
+  </div>
+</div>
+
+Payment CSS
+.fk-card-number input {
+  padding: 15px 35px 15px 15px;
+}
+.fk-payment-option-container {
+  position: relative;
+  padding: 0px 5px;
+}
+.fk-card-payment-container {
+  width: 100%;
+}
+#fkCreditCard {
+  padding-bottom: 17px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-color: rgb(222, 222, 222);
+  display: flex;
+}
+#cc-id-tbm4esx4mrIR {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#cc-id-VA1eL5wPMM49 {
+  font-size: 16px;
+  border-color: rgb(222, 222, 222);
+}
+.fk-payment-option-toggler-field {
+  position: absolute;
+  top: 14px;
+  left: 15px;
+  height: 20px;
+  width: 20px;
+  cursor: pointer;
+}
+#cc-id-JBy7QDKpCf0Z {
+  border-color: rgb(222, 222, 222);
+  margin-bottom: 0px;
+}
+.fk-payment-option-container:first-child .fk-payment-option-header-wrapper {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.fk-payment-option-container:last-child .fk-payment-option-header-wrapper {
+  border-bottom-right-radius: 5px !important;
+  border-bottom-left-radius: 5px !important;
+}
+.fk-payment-option-header-wrapper {
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border: 1px solid rgb(217, 217, 217);
+  display: block;
+}
+.fk-payment-option-toggler-field:checked ~ .fk-payment-option-header-wrapper {
+  background-color: rgb(242, 247, 255);
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border: 1px solid rgb(24, 115, 176) !important;
+}
+.fk-form-radio-button-parent:has([name="shipProfileId"]:checked) {
+  background-color: rgb(242, 247, 255);
+  border: 1px solid rgb(24, 115, 176) !important;
+}
+.fk-form-radio-button-parent:has([name="billShipSame"]:checked) {
+  background-color: rgb(242, 247, 255);
+  border: 1px solid rgb(24, 115, 176) !important;
+}
+.fk-form-radio-button-parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.fk-card-one {
+  background-image: url("https://assets.checkoutchamp.com/f09818f0-af22-11ea-afe1-abac30942df7/visa.svg");
+}
+.fk-card-two {
+  background-image: url("https://assets.checkoutchamp.com/f09818f0-af22-11ea-afe1-abac30942df7/master.svg");
+}
+.fk-card-three {
+  background-image: url("https://assets.checkoutchamp.com/f09818f0-af22-11ea-afe1-abac30942df7/american.svg");
+}
+.fk-payment-option-header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px 10px;
+  height: 40px;
+}
+.fk-payment-option-label {
+  margin-left: 30px;
+  font-weight: bold;
+  color: rgb(111, 111, 111);
+  padding: 5px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+  text-align: left;
+}
+.fk-headline {
+  font-weight: 400;
+  color: black;
+}
+.gjs-cv-canvas__tools > #gjs-tools > .gjs-toolbar > div > .fa-trash-o {
+  pointer-events: none;
+}
+.tooltipper5 {
+  position: relative;
+  display: block;
+  cursor: pointer;
+}
+.tooltipper5 .tooltipper5box {
+  font-size: 12px;
+  visibility: hidden;
+  width: 150px;
+  background-color: black;
+  color: white;
+  border: 1px solid rgb(0, 0, 0);
+  text-align: center;
+  border-radius: 6px;
+  padding: 10px;
+  position: absolute;
+  z-index: 1;
+  bottom: 120%;
+  right: -250%;
+}
+.tooltipper5:hover .tooltipper5box {
+  visibility: visible;
+}
+.fk-card-payment-field input {
+  outline: none;
+  font-size: 18px;
+  padding: 15px;
+  height: 45px;
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid rgb(206, 212, 218);
+  box-sizing: border-box;
+}
+.fk-card-payment-field {
+  flex: 1 1 0%;
+  margin: 10px;
+  position: relative;
+}
+.fk-card-multiple-payment-field {
+  display: flex;
+  flex-direction: row;
+}
+#cc-id-OrjapQMwHrBU {
+  font-size: 16px;
+  border-color: rgb(222, 222, 222);
+}
+#cc-id-GqI0jr5NRSOL {
+  font-size: 16px;
+  border-color: rgb(222, 222, 222);
+}
+.fk-card-payment-field-icon {
+  position: absolute;
+  top: 12px;
+  right: 20px;
+}
+#cc-id-nX3B8g7KrVOx-2 {
+  font-size: 14px;
+}
+.fk-payment-option-container:last-child .fk-payment-option-body {
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.fk-payment-option-body {
+  background-color: rgb(250, 250, 250);
+  display: flex;
+  align-items: center;
+  border: 1px solid rgb(217, 217, 217);
+}
+.fk-payment-option-toggler-field:checked ~ .fk-payment-option-body {
+  display: flex;
+  border: 1px solid rgb(217, 217, 217);
+}
+#cc-id-xrG9jFRSi07N {
+  margin-right: 6px;
+}
+.fk-background {
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: cover;
+}
+.fk-card-four {
+  background-image: url("https://assets.checkoutchamp.com/226de040-f3d2-11eb-8d0a-736fec5a0e07/1705090047896_discover1.png");
+}
+.fk-card-payment-bg-icon {
+  margin-left: 5px;
+  padding: 5px;
+  min-height: 25px;
+  min-width: 40px;
+}
+.fk-card-payment-bg-icon-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 40px;
+}
+@media (max-width: 425px) {
+  .tooltipper5 .tooltipper5box {
+    right: -80% !important;
+  }
+}
+@media (max-width: 480px) {
+  .tooltipper5 .tooltipper5box {
+    right: -80% !important;
+  }
+  #cc-id-yjVyLrCdxGJw {
+    margin-left: 40px;
+  }
+  #cc-id-yCXCYWM6JH0G {
+    margin-left: 1px;
+    margin-right: 1px;
+  }
+  .fk-card-payment-bg-icon-container {
+    padding-right: 10px;
+  }
+}
