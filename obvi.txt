@@ -1,0 +1,4672 @@
+HTML
+<html>
+  <head>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/animate.css@3.7.2/animate.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.min.css"
+    />
+    <meta charset="utf-8" />
+    <meta
+      http-equiv="Cache-Control"
+      content="no-cache, no-store, must-revalidate"
+    />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+      charset="utf-8"
+    />
+    <link rel="preconnect" cc="true" href="https://fonts.googleapis.com" />
+    <link
+      rel="preconnect"
+      cc="true"
+      href="https://fonts.gstatic.com"
+      crossorigin=""
+    />
+    <title>Checkout</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700,800,900&amp;display=swap"
+      rel="stylesheet"
+      cc="true"
+      as="style"
+      onload="this.rel='stylesheet'"
+    />
+    <link
+      rel="stylesheet"
+      href="https://assets.checkoutchamp.com/Template/assets/styles/af5b82d4-e690-4793-96f8-8ec9096c3643/af5b82d4-e690-4793-96f8-8ec9096c3643/bootstrap.min.css"
+      type="text/css"
+    />
+  </head>
+  <body>
+    <div
+      align="center"
+      id="ibbzi"
+      data-secondsdelay=""
+      class="re-fk-lazy fk-disable-lazy"
+      loading="lazy"
+    >
+      <div data-secondsdelay="" id="iggpb" class="fk-row">
+        <div align="center" data-secondsdelay="" id="ihacf" class="fk-col col">
+          <img
+            id="fkt-image-0d4-2bc-8bc"
+            title=""
+            target="_self"
+            src="https://assets.checkoutchamp.com/65069d50-b7e9-11ef-ae9f-fd575ff29fbc/1746105981275_obvi_logo_min_x320.png"
+            href=""
+            align="center"
+            alt=""
+            width=""
+            height=""
+            onclick=""
+            data-src="https://assets.checkoutchamp.com/4cf1db40-3b4e-11ed-ba82-b71148b38a69/1738155704240_Asset_1_x320.webp"
+            class="fk-image-defaults fk-disable-lazy"
+            loading="lazy"
+          />
+          <div data-box="true" id="cc-id-pJEoqfhMNtwa" data-secondsdelay="">
+            <a
+              id="cc-id-lIeCzRDqlfkF"
+              data-id="fkt-link-7b0-598-b0e"
+              title="cart"
+              target="_self"
+              action="route"
+              align="center"
+              animate=""
+              speed=""
+              delay="none"
+              loop="none"
+              data-secondsdelay=""
+              data-minutesdelay=""
+              replaceproductid=""
+              billnow="false"
+              quantity=""
+              price=""
+              variantvalue=""
+              offer=""
+              upsell=""
+              href="https://myobvi.com/cart"
+              ><img
+                src="https://assets.checkoutchamp.com/65069d50-b7e9-11ef-ae9f-fd575ff29fbc/1746106836616_ChatGPT_Image_May_1_2025.png"
+                id="cc-id-yoLE8DYH6jOa"
+                title=""
+                href=""
+                onclick=""
+                target="_self"
+                alt=""
+                align="center"
+                width=""
+                height=""
+                class="fk-image-defaults fk-disable-lazy"
+                loading="lazy"
+              /> </a
+            ><a
+              aria-label="Cart"
+              id="cart-link"
+              href="https://myobvi.com/cart"
+              style="display: inline-block;"
+              data-id="fkt-link-d4b-da5-82c"
+              title=""
+              target="_self"
+              action="choose"
+              align="center"
+              animate=""
+              speed=""
+              delay="none"
+              loop="none"
+              variantvalue=""
+              data-secondsdelay=""
+              data-minutesdelay=""
+              replaceproductid=""
+              billnow="false"
+              offer=""
+              upsell=""
+              quantity=""
+              price=""
+            >
+            </a>
+          </div>
+        </div>
+      </div>
+      <div
+        id="inus1"
+        data-secondsdelay=""
+        class="fk-row flex flex-wrap bsFlexWrapClass"
+      >
+        <div
+          align="center"
+          id="i80rh"
+          data-secondsdelay=""
+          class="fk-col col-12 order-2 order-lg-1 basic-information-section col-lg-7 col-xl-7"
+        >
+          <section id="io93e" class="wrap bsFlexWrapClass">
+            <div id="io2r2" data-secondsdelay="">
+              <div data-text="text" id="iej0z2" data-secondsdelay="">
+                Express Checkout
+              </div>
+              <div
+                id="id4vz-2"
+                align="center"
+                data-secondsdelay=""
+                data-cc-tabletlarge="true"
+                data-cc-tablet="true"
+                data-cc-mobilelarge="true"
+                data-cc-mobile="true"
+                class="ch-express-checkout-group-body desktop"
+              >
+                <button
+                  size="medium"
+                  class="btn btnApplePay btn-apple-pay-black-styles fk-cc-id-4D2vGO1FTtwS"
+                  style="-webkit-appearance: -apple-pay-button; -apple-pay-button-type: plain; -apple-pay-button-style: black; background-image: url('https://config.checkoutchamp.com/production/ApplePayButtonBlack.png');"
+                  title="Checkout With Apple Pay"
+                  id="cc-id-4D2vGO1FTtwS"
+                  data-id="fkt-button-d2f-d84-b2a"
+                  align="center"
+                  data-secondsdelay=""
+                  data-minutesdelay=""
+                  type="button"
+                  onclick="callMethod(event)"
+                  action="submit"
+                  variantvalue=""
+                  replaceproductid=""
+                  billnow="false"
+                  offer=""
+                  upsell=""
+                  quantity=""
+                  price=""
+                  desktopsize="medium"
+                  largetabletsize="medium"
+                  tabletsize="medium"
+                  largemobilesize="medium"
+                  mobilesize="medium"
+                ></button
+                ><button
+                  size="medium"
+                  title="GooglePay"
+                  data-id="fkt-button-eaa-9a5-ab0"
+                  align="center"
+                  data-secondsdelay=""
+                  data-minutesdelay=""
+                  type="button"
+                  onclick="callMethod(event)"
+                  action="submit"
+                  replaceproductid=""
+                  billnow="false"
+                  quantity=""
+                  price=""
+                  id="icxbrw"
+                  desktopsize="medium"
+                  largetabletsize="medium"
+                  tabletsize="medium"
+                  largemobilesize="medium"
+                  mobilesize="medium"
+                  data-text-value=""
+                  data-cc-tabletlarge="true"
+                  data-cc-desktop="true"
+                  variantvalue=""
+                  offer=""
+                  upsell=""
+                  class="btn btnGoogle2 btn-google2-styles btn-google-margin fk-icxbrw"
+                ></button
+                ><button
+                  size="medium"
+                  title="ShopPay"
+                  data-id="fkt-button-572-49e-b54"
+                  align="center"
+                  data-secondsdelay=""
+                  data-minutesdelay=""
+                  type="button"
+                  onclick="callMethod(event)"
+                  action="submit"
+                  replaceproductid=""
+                  billnow="false"
+                  quantity=""
+                  price=""
+                  id="i6n5ji"
+                  desktopsize="medium"
+                  largetabletsize="medium"
+                  tabletsize="medium"
+                  largemobilesize="medium"
+                  mobilesize="medium"
+                  data-text-value=""
+                  variantvalue=""
+                  offer=""
+                  upsell=""
+                  class="btn shopPayButton shoppay-button-styles fk-i6n5ji"
+                ></button>
+              </div>
+              <div
+                id="iu62du-2-2"
+                data-secondsdelay=""
+                class="ch-express-checkout-group-or-line"
+              >
+                <span data-text="text" id="i9ptpj" data-secondsdelay=""
+                  >OR&nbsp;</span
+                >
+              </div>
+            </div>
+            <div id="ieyjp" data-secondsdelay="">
+              <div data-box="true" id="cc-id-qr1eJyFHSoZo" data-secondsdelay="">
+                <div
+                  data-text="text"
+                  id="i4deo6"
+                  align="center"
+                  data-secondsdelay=""
+                >
+                  Contact Information
+                </div>
+              </div>
+              <div id="i5goz" align="left" class="form">
+                <input
+                  type="text"
+                  name="emailAddress"
+                  placeholder="Email Address"
+                  id="ip2vry"
+                  customval=""
+                  required="true"
+                  class="form-input"
+                />
+              </div>
+              <div
+                data-secondsdelay=""
+                id="ih7y4i"
+                class="form-check fk-form-radio-button-parent"
+              >
+                <input
+                  type="checkbox"
+                  value="value1"
+                  name="emailOptIn"
+                  onclick="checkBoxChange(attributes)"
+                  requiredtype=""
+                  opencheckboxsection=""
+                  id="ijwvm5"
+                  checked="true"
+                  class="fk-form-general-radio-checkbox fk-form-checkbox"
+                /><label id="izx1bw" for="ijwvm5" class="form-check-label"
+                  ><span
+                    data-text="text"
+                    id="cc-id-9RHMHbpqydjt"
+                    data-secondsdelay=""
+                    class="rte-styled-text"
+                    >Keep me up to date with news and exclusive offers</span
+                  ></label
+                >
+              </div>
+            </div>
+            <div id="icamgj" data-secondsdelay="" class="bsFlexWrapClass">
+              <div data-text="text" id="irrbkt" data-secondsdelay="">
+                Shipping Information
+              </div>
+              <div id="ivalt3" data-secondsdelay="" class="p-0 bsFlexWrapClass">
+                <div data-secondsdelay="" id="icv3tm" class="col-12 field">
+                  <div id="i81gl" data-secondsdelay="" class="select-wrap">
+                    <select
+                      name="shipCountry"
+                      aria-required="true"
+                      aria-invalid="false"
+                      type="select"
+                      customval=""
+                      value=""
+                      id="itruo"
+                      required="false"
+                      class="form-control ch-select ch-dirty pristine untouched valid fk-form-select"
+                    >
+                      <option
+                        data-text="text"
+                        value=""
+                        data-secondsdelay=""
+                        id="cc-id-QBssFpWFyaGA"
+                      >
+                        Select Country
+                      </option>
+                    </select>
+                    <div
+                      data-text="text"
+                      data-secondsdelay=""
+                      id="cc-id-FXbssby5wluW"
+                      class="ch-select-arrow"
+                    ></div>
+                    <div
+                      data-secondsdelay=""
+                      id="cc-id-X3oja3fn3i2B"
+                      class="text-danger"
+                    >
+                      <span data-text="text" id="cc-id-lBpk6zzActdB"></span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  id="i85oh"
+                  data-secondsdelay=""
+                  class="col-12 col-xl-6 pr-xl-0 field"
+                >
+                  <div id="isx2uw" data-secondsdelay="" class="input-wrap">
+                    <input
+                      name="shipFirstName"
+                      type="text"
+                      aria-required="true"
+                      aria-invalid="false"
+                      placeholder="First Name "
+                      customval=""
+                      id="is0hm"
+                      class="form-control ch-input pristine untouched"
+                      required="true"
+                    /><label
+                      for="shipping_first_name"
+                      id="cc-id-ywSudKXpTKip"
+                      class="input-label"
+                    ></label>
+                    <div
+                      data-secondsdelay=""
+                      id="cc-id-7iA5QYFFv5El"
+                      class="text-danger"
+                    >
+                      <span data-text="text" id="cc-id-ho5X442JgcrW"></span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  id="ind3g"
+                  data-secondsdelay=""
+                  class="col-12 col-xl-6 field"
+                >
+                  <div id="ipgaf" data-secondsdelay="" class="input-wrap">
+                    <input
+                      name="shipLastName"
+                      type="text"
+                      aria-required="true"
+                      aria-invalid="false"
+                      placeholder="Last Name"
+                      customval=""
+                      id="il49q"
+                      class="form-control ch-input pristine untouched"
+                      required="true"
+                    /><label
+                      for="shipping_last_name"
+                      id="cc-id-WrJA64UUWkAD"
+                      class="input-label"
+                    ></label>
+                    <div
+                      data-secondsdelay=""
+                      id="cc-id-m8G9Q3iKxHFS"
+                      class="text-danger"
+                    >
+                      <span data-text="text" id="cc-id-58OsHiTe5JA7"></span>
+                    </div>
+                  </div>
+                </div>
+                <div id="iwfdm" data-secondsdelay="" class="col-12 field">
+                  <div id="ibin1" data-secondsdelay="" class="input-wrap">
+                    <input
+                      name="shipAddress1"
+                      type="text"
+                      placeholder="Address"
+                      aria-required="true"
+                      aria-invalid="false"
+                      customval=""
+                      id="inl3f"
+                      required="true"
+                      class="form-control ch-input pristine untouched pac-target-input"
+                    /><label
+                      for="shipping_address1"
+                      id="cc-id-RcWy1l5lHHfO"
+                      class="input-label"
+                    ></label>
+                    <div
+                      data-secondsdelay=""
+                      id="cc-id-6aNHTfdY5uXS"
+                      class="text-danger"
+                    >
+                      <span data-text="text" id="cc-id-slFuxy8ZY68T"></span>
+                    </div>
+                  </div>
+                </div>
+                <div data-secondsdelay="" id="if8lgy" class="col-12 field">
+                  <div data-secondsdelay="" id="ieon0q" class="input-wrap">
+                    <input
+                      name="shipAddress2"
+                      type="text"
+                      placeholder="Apartment, suite, etc. (optional)"
+                      aria-required="true"
+                      aria-invalid="false"
+                      id="iwxytv"
+                      customval=""
+                      class="form-control ch-input pristine untouched pac-target-input"
+                    /><label
+                      for="shipping_address1"
+                      id="cc-id-Q0l7N3HACQ4y"
+                      class="input-label"
+                    ></label>
+                    <div
+                      data-secondsdelay=""
+                      id="cc-id-aXxTMM6tQqF8"
+                      class="text-danger"
+                    >
+                      <span data-text="text" id="cc-id-p2JHtR9FnmZu"></span>
+                    </div>
+                  </div>
+                </div>
+                <div id="ibouz" data-secondsdelay="" class="field col-lg-4">
+                  <div id="i61qk" data-secondsdelay="" class="input-wrap">
+                    <input
+                      name="shipCity"
+                      type="text"
+                      aria-required="true"
+                      aria-invalid="false"
+                      placeholder="City"
+                      customval=""
+                      id="icynp"
+                      required="true"
+                      class="form-control ch-input pristine untouched"
+                    /><label
+                      for="shipping_city"
+                      id="cc-id-MTqfd26j9dWX"
+                      class="input-label"
+                    ></label>
+                    <div
+                      data-secondsdelay=""
+                      id="cc-id-IIvASZrXxQcP"
+                      class="text-danger"
+                    >
+                      <span data-text="text" id="cc-id-a4YzXxxbsrut"></span>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  data-secondsdelay=""
+                  id="ilmow1"
+                  class="pr-xl-0 field col-lg-4"
+                >
+                  <div id="i7n8s" data-secondsdelay="" class="select-wrap">
+                    <select
+                      name="shipState"
+                      aria-required="true"
+                      aria-invalid="false"
+                      type="select"
+                      customval=""
+                      value=""
+                      id="ifjbi"
+                      required="true"
+                      class="form-control ch-select ch-dirty pristine untouched fk-form-select"
+                    >
+                      <option
+                        data-text="text"
+                        value=""
+                        data-secondsdelay=""
+                        id="cc-id-IGVTwLPOg0lb"
+                      >
+                        Select State
+                      </option>
+                    </select>
+                    <div
+                      data-text="text"
+                      data-secondsdelay=""
+                      id="cc-id-KZmgSv2tbUCa"
+                      class="ch-select-arrow"
+                    ></div>
+                    <div
+                      data-secondsdelay=""
+                      id="cc-id-CWKPPP5dRpfd"
+                      class="text-danger"
+                    >
+                      <span data-text="text" id="cc-id-lH18C4GedrIg"></span>
+                    </div>
+                  </div>
+                </div>
+                <div id="iub7a" data-secondsdelay="" class="field col-lg-4">
+                  <div id="i8d7f" data-secondsdelay="" class="input-wrap">
+                    <input
+                      data-vv-validate-on="blur"
+                      name="shipPostalCode"
+                      pattern="[0-9-]*"
+                      type="text"
+                      aria-required="true"
+                      aria-invalid="true"
+                      placeholder="Postal Code"
+                      customval=""
+                      id="ixux3d"
+                      required="true"
+                      class="form-control ch-input pristine untouched"
+                    /><label
+                      for="shipping_zip"
+                      id="cc-id-cExhe1FCpjtC"
+                      class="input-label"
+                    ></label>
+                    <div
+                      data-secondsdelay=""
+                      id="cc-id-FL6HArMXP6j2"
+                      class="text-danger"
+                    >
+                      <span data-text="text" id="cc-id-9USa5xOQBaFr"></span>
+                    </div>
+                  </div>
+                </div>
+                <div data-secondsdelay="" id="isk5ht" class="col-12 field">
+                  <div data-secondsdelay="" id="iyvul4" class="input-wrap">
+                    <div
+                      id="cc-id-N6ObUNDGqdii"
+                      data-secondsdelay=""
+                      class="fk-card-payment-field-icon"
+                    >
+                      <div
+                        data-box="true"
+                        data-secondsdelay=""
+                        id="cc-id-CI4UVhQgIh99"
+                        data-element-absolute="true"
+                        class="tooltipper4"
+                      >
+                        <div
+                          data-text="text"
+                          data-secondsdelay=""
+                          id="cc-id-rXxus7AxHcFx"
+                        >
+                          <i
+                            aria-hidden="true"
+                            id="cc-id-nX3B8g7KrVOx"
+                            class="far fa-question-circle icp icp-auto"
+                          ></i>
+                          <div
+                            data-text="text"
+                            data-secondsdelay=""
+                            id="cc-id-JPsFK1nswz4R"
+                            class="tooltipper4box"
+                          >
+                            In case we need to contact you about your order
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <input
+                      name="phoneNumber"
+                      type="text"
+                      placeholder="Phone (optional)"
+                      aria-required="true"
+                      aria-invalid="false"
+                      id="ib1bpx"
+                      customval=""
+                      class="form-control ch-input pristine untouched pac-target-input"
+                      inputmode="tel"
+                    /><label
+                      for="shipping_address1"
+                      id="cc-id-t2wU4Gr8JpZA"
+                      class="input-label"
+                    ></label>
+                    <div
+                      data-secondsdelay=""
+                      id="cc-id-rKtRTD5PXswH"
+                      class="text-danger"
+                    >
+                      <span data-text="text" id="cc-id-8g056Adetgtc"></span>
+                    </div>
+                  </div>
+                </div>
+                <div id="iwrim6" data-secondsdelay="" class="col-12">
+                  <ul
+                    id="cc-id-ga9IIgsRcPhj"
+                    class="bordered-ul with-hover confirm-text-form"
+                  >
+                    <li id="cc-id-X5lJEDSRYhTh">
+                      <label id="cc-id-d9vD8gOwAU9a" class="info-summary-line"
+                        ><span
+                          id="cc-id-ytJD7G0zYuva"
+                          class="ch-custom-label absolute-left padding-left-20 unchangeable"
+                        ></span
+                      ></label>
+                    </li>
+                  </ul>
+                </div>
+                <div
+                  id="iywh43"
+                  data-secondsdelay=""
+                  class="col-12 field bsFlexWrapClass"
+                >
+                  <h3
+                    data-text="text"
+                    data-ch-type="text"
+                    id="iqxgi"
+                    data-secondsdelay=""
+                  >
+                    Shipping method
+                  </h3>
+                  <div
+                    data-box="true"
+                    id="enter-shipping-message"
+                    data-secondsdelay=""
+                  >
+                    <p
+                      data-text="text"
+                      id="cc-id-tnMTtKcxxLcd"
+                      data-secondsdelay=""
+                    >
+                      Enter your shipping address to view available shipping
+                      methods.
+                    </p>
+                  </div>
+                  <div id="shipping-box" data-secondsdelay="">
+                    <div
+                      id="shipping"
+                      align="left"
+                      data-secondsdelay=""
+                      data-cc-desktop="true"
+                      class="col-12 CE__shipping-component"
+                    >
+                      <div
+                        id="ih8fj9"
+                        data-secondsdelay=""
+                        data-cc-desktop="true"
+                        class="form-check fk-form-radio-button-parent ship-prof"
+                      >
+                        <input
+                          type="radio"
+                          value=""
+                          opencheckboxsection=""
+                          onclick="checkBoxChange(attributes)"
+                          name="shipProfileId"
+                          id="i0zcsx"
+                          checked="true"
+                          data-cc-desktop="true"
+                          class="fk-form-product-radio-checkbox fk-form-radio"
+                        /><label id="iho1ip" class="form-check-label"
+                          >Select Shipping Profile</label
+                        ><i
+                          id="i5l5r7"
+                          data-cc-desktop="false"
+                          data-cc-tabletlarge="false"
+                          data-cc-tablet="false"
+                          data-cc-mobilelarge="false"
+                          data-cc-mobile="false"
+                          class="fa fa-truck icp icp-auto"
+                        ></i>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  data-text="text"
+                  data-secondsdelay=""
+                  id="cc-id-NTsIclk5Ai0H"
+                  class="clearfix"
+                ></div>
+              </div>
+              <div
+                id="cc-id-heQgAyYyWHLG"
+                data-secondsdelay=""
+                class="fk-payment-option-wrapper"
+              >
+                <div
+                  data-box="true"
+                  id="cc-id-e1Nn5wKDdro9"
+                  data-secondsdelay=""
+                >
+                  <p
+                    data-text="text"
+                    id="cc-id-z4yhsLu3IBUv"
+                    data-secondsdelay=""
+                  >
+                    Secure Checkout
+                  </p>
+                  <p
+                    data-text="text"
+                    id="cc-id-KBwmaiz8efqX"
+                    data-secondsdelay=""
+                  >
+                    <span
+                      style='color: rgb(155, 155, 155); font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, "sans-serif", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "sans-serif"; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'
+                      id="cc-id-tyJ4ihf6d1CO"
+                      class="rte-styled-text"
+                      >All transactions are secure and encrypted</span
+                    >
+                  </p>
+                </div>
+                <div id="cc-id-HsA69GN0KrsB" data-secondsdelay="">
+                  <div
+                    id="cc-id-v64GFGKT0Q60"
+                    data-secondsdelay=""
+                    class="fk-payment-options"
+                  >
+                    <div
+                      id="cc-id-tbm4esx4mrIR"
+                      data-secondsdelay=""
+                      class="fk-payment-option-container"
+                    >
+                      <input
+                        opencheckboxsection="fkCreditCard"
+                        type="radio"
+                        name="fk-payment-option-toggler"
+                        id="card-radio"
+                        onclick="checkBoxChange(attributes)"
+                        checked="true"
+                        value=""
+                        class="fk-form-radio fk-payment-option-toggler-field"
+                      /><label
+                        id="cc-id-JBy7QDKpCf0Z"
+                        for="card-radio"
+                        class="fk-payment-option-header-wrapper"
+                        ><div
+                          id="cc-id-yCXCYWM6JH0G"
+                          data-secondsdelay=""
+                          class="fk-payment-option-header-container"
+                        >
+                          <div
+                            id="cc-id-yjVyLrCdxGJw"
+                            data-secondsdelay=""
+                            class="fk-payment-option-label"
+                          >
+                            <div
+                              id="cc-id-nd9teGhG5bWd"
+                              data-secondsdelay=""
+                              class="fk-headline"
+                            >
+                              Credit Card
+                            </div>
+                          </div>
+                          <div
+                            id="cc-id-gg2rENcveWlH"
+                            data-secondsdelay=""
+                            class="fk-card-payment-bg-icon-container"
+                          >
+                            <div
+                              id="cc-id-EbDxcTahTwJo"
+                              data-secondsdelay=""
+                              class="fk-card-payment-bg-icon fk-background fk-card-one"
+                            ></div>
+                            <div
+                              id="cc-id-J8JhbN2TdDWc"
+                              data-secondsdelay=""
+                              class="fk-card-payment-bg-icon fk-background fk-card-two"
+                            ></div>
+                            <div
+                              id="cc-id-tVW9RyUuYQFI"
+                              data-secondsdelay=""
+                              class="fk-card-payment-bg-icon fk-background fk-card-three"
+                            ></div>
+                            <div
+                              id="cc-id-xrG9jFRSi07N"
+                              data-secondsdelay=""
+                              class="fk-card-payment-bg-icon fk-background fk-card-four"
+                            ></div>
+                          </div></div
+                      ></label>
+                      <div
+                        id="fkCreditCard"
+                        data-secondsdelay=""
+                        class="fk-payment-option-body fk-payment-options-hide-on-load"
+                      >
+                        <form
+                          id="cc-id-plGg3M8n0cvb"
+                          class="fk-card-payment-container"
+                        >
+                          <div id="cc-id-QAnpGIhC5eAj" data-secondsdelay="">
+                            <div
+                              id="cc-id-3LiH6wVK3I3n"
+                              data-secondsdelay=""
+                              class="fk-card-payment-field fk-card-number"
+                            >
+                              <div
+                                id="cc-id-N6ObUNDGqdii-2"
+                                data-secondsdelay=""
+                                class="fk-card-payment-field-icon"
+                              >
+                                <i
+                                  id="cc-id-VopQ0DoWuhkk"
+                                  class="fa fa-lock fa-icon icp icp-auto"
+                                ></i>
+                              </div>
+                              <input
+                                placeholder="Card Number"
+                                name="cardNumber"
+                                type="text"
+                                required="true"
+                                id="cc-id-VA1eL5wPMM49"
+                                customval=""
+                                maxlength="16"
+                              />
+                            </div>
+                          </div>
+                          <div
+                            id="cc-id-I6x5Axq0xNqC"
+                            data-secondsdelay=""
+                            class="fk-card-multiple-payment-field"
+                          >
+                            <div
+                              id="cc-id-r79gPS0fWIrq"
+                              data-secondsdelay=""
+                              class="fk-card-payment-field"
+                            >
+                              <input
+                                placeholder="Expiration date (MM / YY)"
+                                name="cardDate"
+                                type="text"
+                                required="true"
+                                id="cc-id-OrjapQMwHrBU"
+                                customval=""
+                                maxlength="5"
+                              />
+                            </div>
+                            <div
+                              id="cc-id-jT7L5bRtLQYS"
+                              data-secondsdelay=""
+                              class="fk-card-payment-field"
+                            >
+                              <div
+                                id="cc-id-N6ObUNDGqdii-3"
+                                data-secondsdelay=""
+                                class="fk-card-payment-field-icon"
+                              >
+                                <div
+                                  data-box="true"
+                                  data-secondsdelay=""
+                                  id="cc-id-CI4UVhQgIh99-2"
+                                  data-element-absolute="true"
+                                  class="tooltipper5"
+                                >
+                                  <div
+                                    data-text="text"
+                                    data-secondsdelay=""
+                                    id="cc-id-rXxus7AxHcFx-2"
+                                  >
+                                    <i
+                                      aria-hidden="true"
+                                      id="cc-id-nX3B8g7KrVOx-2"
+                                      class="far fa-question-circle icp icp-auto"
+                                    ></i>
+                                    <div
+                                      data-text="text"
+                                      data-secondsdelay=""
+                                      id="cc-id-JPsFK1nswz4R-2"
+                                      class="tooltipper5box"
+                                    >
+                                      3-digit security code usually found on the
+                                      back of your card. American Express cards
+                                      have a 4-digit code located on the front.
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <input
+                                placeholder="Security code"
+                                name="cardSecurityCode"
+                                type="text"
+                                required="true"
+                                id="cc-id-GqI0jr5NRSOL"
+                                customval=""
+                                maxlength="4"
+                              />
+                            </div>
+                          </div>
+                        </form>
+                      </div>
+                    </div>
+                    <div
+                      id="cc-id-30Bf6qzJoIby"
+                      data-secondsdelay=""
+                      class="fk-payment-option-container"
+                    >
+                      <input
+                        opencheckboxsection="otherpayments"
+                        type="radio"
+                        name="fk-payment-option-toggler"
+                        id="klarna-radio"
+                        onclick="checkBoxChange(attributes)"
+                        value=""
+                        class="fk-form-radio fk-payment-option-toggler-field"
+                      /><label
+                        id="cc-id-I4dHi3Kh3KLD"
+                        for="klarna-radio"
+                        class="fk-payment-option-header-wrapper"
+                        ><div
+                          id="cc-id-n2UYxUOc5vls"
+                          data-secondsdelay=""
+                          class="fk-payment-option-header-container"
+                        >
+                          <div
+                            id="cc-id-70GZimsdikbp"
+                            data-secondsdelay=""
+                            class="fk-payment-option-label"
+                          >
+                            <img
+                            src="https://config.checkoutchamp.com/production/klarna-checkout.png"
+                            config.checkoutchamp.com="" production=""
+                            klarna-checkout.png")"="" id="cc-id-td63JpyPMLD4"
+                            title="" href="" onclick="" target="_self" alt=""
+                            align="center" width="" height=""
+                            class="fk-image-defaults fk-disable-lazy"
+                            loading="lazy">
+                          </div>
+                        </div></label
+                      >
+                      <div
+                        id="otherpayments"
+                        data-secondsdelay=""
+                        class="fk-payment-option-body fk-payment-options-hide-on-load"
+                      >
+                        <form
+                          id="cc-id-K3kyGcpyQYUK"
+                          class="fk-card-payment-container"
+                        >
+                          <div
+                            data-box="true"
+                            style="padding: 12px 10px; width: 100%;"
+                            id="cc-id-Vwbu5aYVQCdj"
+                          >
+                            <button
+                              size="medium"
+                              class="btn klarnaButton klarna-button-styles fk-cc-id-4p7EPQHyD5SG"
+                              title="Klarna Button"
+                              id="cc-id-4p7EPQHyD5SG"
+                              data-id="fkt-button-722-da0-90d"
+                              align="center"
+                              data-secondsdelay=""
+                              data-minutesdelay=""
+                              type="button"
+                              onclick="callMethod(event)"
+                              action="submit"
+                              variantvalue=""
+                              replaceproductid=""
+                              billnow="false"
+                              offer=""
+                              upsell=""
+                              quantity=""
+                              price=""
+                              desktopsize="medium"
+                              largetabletsize="medium"
+                              tabletsize="medium"
+                              largemobilesize="medium"
+                              mobilesize="medium"
+                            >
+                              CheckoutWithKlarna
+                            </button>
+                          </div>
+                        </form>
+                      </div>
+                    </div>
+                    <div
+                      id="cc-id-a536SoCvmMND"
+                      data-secondsdelay=""
+                      class="fk-payment-option-container"
+                    >
+                      <input
+                        opencheckboxsection="None"
+                        type="radio"
+                        name="fk-payment-option-toggler"
+                        id="paypal-radio"
+                        onclick="checkBoxChange(attributes)"
+                        value=""
+                        class="fk-form-radio fk-payment-option-toggler-field"
+                      /><label
+                        id="cc-id-qcSGvs12pzsK"
+                        for="paypal-radio"
+                        class="fk-payment-option-header-wrapper"
+                        ><div
+                          id="cc-id-Mjh7SXYHZzB4"
+                          data-secondsdelay=""
+                          class="fk-payment-option-header-container"
+                        >
+                          <div
+                            id="cc-id-c7THRZm3vcvs"
+                            data-secondsdelay=""
+                            class="fk-payment-option-label"
+                          >
+                            <img
+                              src="https://assets.checkoutchamp.com/4cf1db40-3b4e-11ed-ba82-b71148b38a69/1737385637008_1722509667423_paypal.svg"
+                              id="cc-id-pG7sjSPQRfbX"
+                              title=""
+                              href=""
+                              onclick=""
+                              target="_self"
+                              alt=""
+                              align="center"
+                              width=""
+                              height=""
+                              class="fk-image-defaults fk-disable-lazy"
+                              loading="lazy"
+                            />
+                            <div
+                              id="cc-id-IIMSPNZ4azfb"
+                              data-secondsdelay=""
+                              class="fk-headline"
+                            >
+                              <span
+                                style='color: rgb(0, 0, 0); font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, "sans-serif", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "sans-serif"; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'
+                                id="cc-id-sJcH2mIkSLg4"
+                                class="rte-styled-text"
+                                ><span
+                                  style="color: rgb(255, 0, 0); font-family: Helvetica, serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: -webkit-center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"
+                                  id="cc-id-aKTQlfxj0OaU"
+                                  >PayPal uses the main Purchase button - delete
+                                  this text</span
+                                ></span
+                              >
+                            </div>
+                          </div>
+                        </div></label
+                      >
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                align="left"
+                data-secondsdelay=""
+                id="ihjw8n"
+                class="cc-cart-wrapper"
+              >
+                <div
+                  data-secondsdelay=""
+                  id="itplls"
+                  class="cc-cart-toggle-target"
+                >
+                  <div
+                    data-secondsdelay=""
+                    id="id6kfj"
+                    class="cc-cart-container"
+                  >
+                    <div data-secondsdelay="" id="il0xrk" class="cc-cart-row">
+                      <div
+                        data-secondsdelay=""
+                        id="cc-id-VxNf2pCENttp"
+                        class="row cc-cart-row-margin bsFlexWrapClass"
+                      >
+                        <div
+                          data-secondsdelay=""
+                          id="i5juih"
+                          class="p-0 position-relative col-3"
+                        >
+                          <img
+                            src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3R5bGU9ImZpbGw6IHJnYmEoMCwwLDAsMC4xNSk7IHRyYW5zZm9ybTogc2NhbGUoMC43NSkiPgogICAgICAgIDxwYXRoIGQ9Ik04LjUgMTMuNWwyLjUgMyAzLjUtNC41IDQuNSA2SDVtMTYgMVY1YTIgMiAwIDAgMC0yLTJINWMtMS4xIDAtMiAuOS0yIDJ2MTRjMCAxLjEuOSAyIDIgMmgxNGMxLjEgMCAyLS45IDItMnoiPjwvcGF0aD4KICAgICAgPC9zdmc+"
+                            id="fkt-image-2bb-b86-a4f"
+                            title=""
+                            target="_self"
+                            href=""
+                            align="center"
+                            alt=""
+                            width=""
+                            height=""
+                            onclick=""
+                            class="cc-cart-row-img fk-disable-lazy"
+                            loading="lazy"
+                          />
+                          <div
+                            data-text="text"
+                            data-secondsdelay=""
+                            id="irpc3m"
+                            class="cc-cart-prod-qty-bubble"
+                          >
+                            0
+                          </div>
+                        </div>
+                        <div data-secondsdelay="" id="ibjk0k" class="p-0 col-9">
+                          <div
+                            data-secondsdelay=""
+                            id="cc-id-sJ3JWZhn6B18"
+                            class="row cc-cart-row-margin"
+                          >
+                            <div
+                              data-secondsdelay=""
+                              id="cc-id-Vytzok3VookE"
+                              class="col-6 cc-cart-row-content p-0"
+                            >
+                              <div
+                                data-text="text"
+                                data-secondsdelay=""
+                                id="cc-id-tufuIpXHba7M"
+                                class="cc-cart-row-prod-title"
+                              >
+                                Name
+                              </div>
+                              <div
+                                data-secondsdelay=""
+                                id="cc-id-Iztc7g7p6ljv"
+                                class="cc-cart-row-variant"
+                              >
+                                <span
+                                  data-text="text"
+                                  data-secondsdelay=""
+                                  id="cc-id-5SIM9xP1x6qN"
+                                  class="cc-cart-row-prod-variant-label font-weight-bold mr-1"
+                                  >Label</span
+                                ><span
+                                  data-text="text"
+                                  data-secondsdelay=""
+                                  id="cc-id-8ZgVQuPIXaXJ"
+                                  class="cc-cart-row-prod-variant cc-cart-row-frequency"
+                                  >Variant</span
+                                >
+                              </div>
+                              <div
+                                data-secondsdelay=""
+                                id="cc-id-8t1J2Lvxpp8t"
+                                data-cc-desktop="false"
+                                data-cc-tabletlarge="false"
+                                data-cc-tablet="false"
+                                data-cc-mobilelarge="false"
+                                data-cc-mobile="false"
+                                class="cc-cart-row-trash-icon-container"
+                              >
+                                <i
+                                  id="il9xbh"
+                                  class="cc-cart-row-trash-icon icp icp-auto fas fa-trash-alt"
+                                ></i>
+                              </div>
+                            </div>
+                            <div
+                              data-secondsdelay=""
+                              id="cc-id-bkmaKNkvGr3Q"
+                              class="col-6 cc-cart-row-content p-0"
+                            >
+                              <div
+                                data-secondsdelay=""
+                                id="i44ay3"
+                                class="text-center p-2"
+                              >
+                                <i
+                                  id="cc-id-sZKMOcvouhGG"
+                                  class="fa fa-minus cc-cart-row-qty-btn cc-cart-row-prod-qty-minus icp icp-auto"
+                                ></i>
+                                <div
+                                  data-text="text"
+                                  data-secondsdelay=""
+                                  id="cc-id-IJOXkEkObuI6"
+                                  class="cc-cart-row-prod-qty-container cc-cart-row-prod-qty"
+                                >
+                                  1
+                                </div>
+                                <i
+                                  id="cc-id-NnfSkxBlD0sa"
+                                  class="fa fa-plus cc-cart-row-qty-btn cc-cart-row-prod-qty-plus icp icp-auto"
+                                ></i>
+                              </div>
+                              <div
+                                data-secondsdelay=""
+                                id="cc-id-bgXZknWwTJUZ"
+                                class="text-center"
+                              >
+                                <div
+                                  data-text="text"
+                                  data-secondsdelay=""
+                                  id="cc-id-YmRsQPQzoakc"
+                                  class="cc-cart-row-prod-price"
+                                >
+                                  $0.00
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <form id="cc-id-wq7orNmW5xR7" class="form form-style">
+                  <div
+                    data-secondsdelay=""
+                    id="cc-id-fJiBlbfx3jxD"
+                    class="fk-element-container half-width top-margin"
+                  >
+                    <input
+                      type="text"
+                      name="couponCode"
+                      placeholder="Discount code"
+                      customval=""
+                      id="couponCode2"
+                      class="form-control-custom"
+                    />
+                  </div>
+                  <button
+                    disabled=""
+                    data-id="fkt-button-e5d-387-a56"
+                    title=""
+                    align="center"
+                    data-secondsdelay=""
+                    data-minutesdelay=""
+                    type="button"
+                    onclick="applyCoupon(event)"
+                    action="applyCoupon"
+                    replaceproductid=""
+                    size="none"
+                    billnow="false"
+                    quantity=""
+                    price=""
+                    id="ijgyon"
+                    desktopsize="none"
+                    variantvalue=""
+                    offer=""
+                    upsell=""
+                    class="disabled enabled btn btn-primary apply-coupon fk-iuco4x"
+                  >
+                    Apply
+                  </button>
+                </form>
+                <div
+                  align="right"
+                  data-secondsdelay=""
+                  id="cc-id-SvyIBYgLZ7LF"
+                  class="cc-cart-details-block"
+                >
+                  <span
+                    id="cc-id-A4cTagld8Gy8"
+                    data-layer-name="Span"
+                    class="d-inline-block"
+                    ><span
+                      data-text="text"
+                      data-secondsdelay=""
+                      id="cc-id-9B3OMfzdxcLO"
+                      class="cc-cart-details-label"
+                      >Subtotal</span
+                    ><span
+                      data-text="text"
+                      data-secondsdelay=""
+                      id="cc-id-1mKpxMYdbbYh"
+                      data-element-absolute=""
+                      class="cc-cart-details-label"
+                      >Shipping </span
+                    ><span
+                      data-text="text"
+                      data-secondsdelay=""
+                      id="cc-id-HLaNOZNyFMI1"
+                      class="cc-cart-details-label"
+                      >Discount</span
+                    ><span
+                      data-text="text"
+                      data-secondsdelay=""
+                      id="cc-id-ulemnPSSyLf7"
+                      class="cc-cart-details-label"
+                      >Total</span
+                    ></span
+                  ><span id="cc-id-OaTOmcTGZkR7" class="d-inline-block"
+                    ><span
+                      data-text="text"
+                      data-secondsdelay=""
+                      id="cc-id-JU6YdKVyFgla"
+                      class="dynamic-price-total cc-cart-details-value"
+                      >$0.00</span
+                    ><span
+                      data-text="text"
+                      data-secondsdelay=""
+                      id="cc-id-gi3t1uEUzo67"
+                      class="dynamic-shipping-total cc-cart-details-value"
+                      >$0.00</span
+                    ><span
+                      data-text="text"
+                      data-secondsdelay=""
+                      id="cc-id-nNuAsXn38yDu"
+                      class="discount cc-cart-details-value"
+                      >$0.00</span
+                    >
+                    <div id="cc-id-vsuv1XTNpBXP" data-secondsdelay="">
+                      <span
+                        data-text="text"
+                        data-secondsdelay=""
+                        id="cc-id-K2CXYeKjXddu"
+                        >USD</span
+                      ><span
+                        data-text="text"
+                        data-secondsdelay=""
+                        id="cc-id-VKXfqXSzgzzH"
+                        class="grandTotal cc-cart-details-value"
+                        >$0.00</span
+                      >
+                    </div></span
+                  >
+                </div>
+              </div>
+              <div data-box="true" data-secondsdelay="" id="imezag">
+                <h3
+                  data-text="text"
+                  data-ch-type="text"
+                  id="cc-id-TWAOQ22tBqMe"
+                  data-secondsdelay=""
+                >
+                  Billing Address
+                </h3>
+                <label
+                  id="iryvkj"
+                  data-secondsdelay=""
+                  class="form-check-label address-label same fk-form-radio-button-parent"
+                  ><div data-secondsdelay="" id="iupy1w" class="form-check">
+                    <input
+                      type="radio"
+                      value=""
+                      opencheckboxsection="billingAddress"
+                      onclick="checkBoxChange(attributes)"
+                      name="billShipSame"
+                      id="in2eyz"
+                      checked="true"
+                      class="fk-form-general-radio-checkbox cc-same-as-shipping fk-form-radio active"
+                    />
+                    Same as shipping address
+                  </div></label
+                ><label
+                  data-secondsdelay=""
+                  id="i9stjh"
+                  class="form-check-label address-label different fk-form-radio-button-parent"
+                  ><div data-secondsdelay="" id="i938me" class="form-check">
+                    <input
+                      type="radio"
+                      value=""
+                      opencheckboxsection="billingAddress"
+                      onclick="checkBoxChange(attributes)"
+                      name="billShipSame"
+                      id="ifvj32"
+                      class="fk-form-general-radio-checkbox fk-form-radio"
+                    />
+                    Use a different billing address
+                  </div></label
+                >
+                <div
+                  data-secondsdelay=""
+                  id="billingAddress"
+                  class="p-0 bsFlexWrapClass"
+                >
+                  <div data-secondsdelay="" id="izu8lp" class="col-12 field">
+                    <div data-secondsdelay="" id="ii092i" class="select-wrap">
+                      <select
+                        name="country"
+                        aria-required="true"
+                        aria-invalid="false"
+                        type="select"
+                        customval=""
+                        value=""
+                        id="i1balf"
+                        required="false"
+                        class="form-control ch-select ch-dirty pristine untouched valid fk-form-select"
+                      >
+                        <option
+                          data-text="text"
+                          value=""
+                          data-secondsdelay=""
+                          id="cc-id-xlAChBxGkcCm"
+                        >
+                          Select Country
+                        </option>
+                      </select>
+                      <div
+                        data-text="text"
+                        data-secondsdelay=""
+                        id="cc-id-ctC2TXi39SK3"
+                        class="ch-select-arrow"
+                      ></div>
+                      <div
+                        data-secondsdelay=""
+                        id="cc-id-FOaoYgF3HDhY"
+                        class="text-danger"
+                      >
+                        <span data-text="text" id="cc-id-80ZSpGGtovhK"></span>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    data-secondsdelay=""
+                    id="ic976b"
+                    class="col-12 col-xl-6 pr-xl-0 field"
+                  >
+                    <div data-secondsdelay="" id="i37kpd" class="input-wrap">
+                      <input
+                        name="firstName"
+                        type="text"
+                        aria-required="true"
+                        aria-invalid="false"
+                        placeholder="First name "
+                        id="i5and6"
+                        customval=""
+                        class="form-control ch-input pristine untouched"
+                      /><label
+                        for="shipping_first_name"
+                        id="cc-id-qndc8uYQEAd5"
+                        class="input-label"
+                      ></label>
+                      <div
+                        data-secondsdelay=""
+                        id="cc-id-zOXwDsvK4EA5"
+                        class="text-danger"
+                      >
+                        <span data-text="text" id="cc-id-FZtI2bolisvQ"></span>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    data-secondsdelay=""
+                    id="i9owsl"
+                    class="col-12 col-xl-6 field"
+                  >
+                    <div data-secondsdelay="" id="ixtamu" class="input-wrap">
+                      <input
+                        name="lastName"
+                        type="text"
+                        aria-required="true"
+                        aria-invalid="false"
+                        placeholder="Last name"
+                        id="iopnrv"
+                        customval=""
+                        class="form-control ch-input pristine untouched"
+                      /><label
+                        for="shipping_last_name"
+                        id="cc-id-ORcH6RqnZ3e3"
+                        class="input-label"
+                      ></label>
+                      <div
+                        data-secondsdelay=""
+                        id="cc-id-mUM1fQmkHFo1"
+                        class="text-danger"
+                      >
+                        <span data-text="text" id="cc-id-oBk4u45rYCvB"></span>
+                      </div>
+                    </div>
+                  </div>
+                  <div data-secondsdelay="" id="ig7p1s" class="col-12 field">
+                    <div data-secondsdelay="" id="ihpbd3" class="input-wrap">
+                      <input
+                        name="address1"
+                        type="text"
+                        placeholder="Address"
+                        aria-required="true"
+                        aria-invalid="false"
+                        id="i66y9z"
+                        customval=""
+                        class="form-control ch-input pristine untouched pac-target-input"
+                      /><label
+                        for="shipping_address1"
+                        id="cc-id-ce4Ye9RMT3Yc"
+                        class="input-label"
+                      ></label>
+                      <div
+                        data-secondsdelay=""
+                        id="cc-id-UHMHnnZ2UL2q"
+                        class="text-danger"
+                      >
+                        <span data-text="text" id="cc-id-pmTIP7sHiWrO"></span>
+                      </div>
+                    </div>
+                  </div>
+                  <div data-secondsdelay="" id="id6yqh" class="col-12 field">
+                    <div data-secondsdelay="" id="i59my9" class="input-wrap">
+                      <input
+                        name="address2"
+                        type="text"
+                        aria-required="false"
+                        aria-invalid="false"
+                        placeholder="Apartment, suite, etc. (optional)"
+                        id="iawohj"
+                        customval=""
+                        class="form-control ch-input pristine untouched"
+                      /><label
+                        for="shipping_address2"
+                        id="cc-id-BBIPTSaGu0ZC"
+                        class="input-label"
+                      ></label>
+                      <div
+                        data-secondsdelay=""
+                        id="cc-id-owEYHHMpvqEK"
+                        class="text-danger"
+                      >
+                        <span data-text="text" id="cc-id-w97UqBUhemW6"></span>
+                      </div>
+                    </div>
+                  </div>
+                  <div data-secondsdelay="" id="itms4i" class="field col-lg-4">
+                    <div data-secondsdelay="" id="ixer3o" class="input-wrap">
+                      <input
+                        name="city"
+                        type="text"
+                        aria-required="true"
+                        aria-invalid="false"
+                        placeholder="City"
+                        id="ikcbuh"
+                        customval=""
+                        class="form-control ch-input pristine untouched"
+                      /><label
+                        for="shipping_city"
+                        id="cc-id-sWt3HSSsFrPl"
+                        class="input-label"
+                      ></label>
+                      <div
+                        data-secondsdelay=""
+                        id="cc-id-DwxVnKx47EAU"
+                        class="text-danger"
+                      >
+                        <span data-text="text" id="cc-id-2MgZEl67pWTr"></span>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    data-secondsdelay=""
+                    id="ieosem"
+                    class="pr-xl-0 field col-lg-4"
+                  >
+                    <div data-secondsdelay="" id="i7i0tx" class="select-wrap">
+                      <select
+                        name="state"
+                        aria-required="true"
+                        aria-invalid="false"
+                        type="select"
+                        customval=""
+                        value=""
+                        id="i5ms0z"
+                        required="false"
+                        class="form-control ch-select ch-dirty pristine untouched fk-form-select"
+                      >
+                        <option
+                          data-text="text"
+                          value=""
+                          data-secondsdelay=""
+                          id="cc-id-Z6JNG6Y6Q0Nu"
+                        >
+                          Select state
+                        </option>
+                      </select>
+                      <div
+                        data-text="text"
+                        data-secondsdelay=""
+                        id="cc-id-mvWm8vJtjDgk"
+                        class="ch-select-arrow"
+                      ></div>
+                      <div
+                        data-secondsdelay=""
+                        id="cc-id-z0PKQbsLwi4V"
+                        class="text-danger"
+                      >
+                        <span data-text="text" id="cc-id-yojVXsQoAEmx"></span>
+                      </div>
+                    </div>
+                  </div>
+                  <div data-secondsdelay="" id="iwtcs8" class="field col-lg-4">
+                    <div data-secondsdelay="" id="iukz8u" class="input-wrap">
+                      <input
+                        data-vv-validate-on="blur"
+                        name="postalCode"
+                        pattern="[0-9-]*"
+                        type="text"
+                        aria-required="true"
+                        aria-invalid="true"
+                        placeholder="Postal code"
+                        id="iv7p0f"
+                        customval=""
+                        class="form-control ch-input pristine untouched"
+                      /><label
+                        for="shipping_zip"
+                        id="cc-id-DLHrBlTvaHRK"
+                        class="input-label"
+                      ></label>
+                      <div
+                        data-secondsdelay=""
+                        id="cc-id-h0Nmqqq3Hdk8"
+                        class="text-danger"
+                      >
+                        <span data-text="text" id="cc-id-d0SrL9Oorcwn"></span>
+                      </div>
+                    </div>
+                  </div>
+                  <div data-secondsdelay="" id="i7ejms" class="col-12">
+                    <ul
+                      id="cc-id-QAN8Ezz4hIfQ"
+                      class="bordered-ul with-hover confirm-text-form"
+                    >
+                      <li id="cc-id-BfmMKsu6ftNZ">
+                        <label id="cc-id-WF75jz8kHq0t" class="info-summary-line"
+                          ><span
+                            id="cc-id-vVoU04CKlYRr"
+                            class="ch-custom-label absolute-left padding-left-20 unchangeable"
+                          ></span
+                        ></label>
+                      </li>
+                    </ul>
+                  </div>
+                  <div
+                    data-text="text"
+                    data-secondsdelay=""
+                    id="cc-id-GIRRblLu0DW7"
+                    class="clearfix"
+                  ></div>
+                </div>
+              </div>
+              <div
+                data-box="true"
+                data-secondsdelay=""
+                id="irxb13-3-3"
+                class="agreement"
+              >
+                <div data-text="text" data-secondsdelay="" id="iwzhod">
+                  By clicking below, I agree to the
+                  <a
+                    id="fkt-link-ab9-18d-bcb"
+                    data-id="fkt-link-9a2-5bd-b30"
+                    title="Terms of Sale"
+                    target="_self"
+                    action="route"
+                    align="center"
+                    animate=""
+                    speed=""
+                    delay="none"
+                    loop="none"
+                    variantvalue=""
+                    data-secondsdelay=""
+                    data-minutesdelay=""
+                    replaceproductid=""
+                    billnow="false"
+                    offer=""
+                    upsell=""
+                    quantity=""
+                    price=""
+                    onclick="linkMethod(event)"
+                    >Terms of Sale</a
+                  >
+                  and
+                  <a
+                    id="fkt-link-158-dbc-978"
+                    data-id="fkt-link-f63-88c-92f"
+                    title="Privacy Policy"
+                    target="_self"
+                    action="route"
+                    align="center"
+                    animate=""
+                    speed=""
+                    delay="none"
+                    loop="none"
+                    variantvalue=""
+                    data-secondsdelay=""
+                    data-minutesdelay=""
+                    replaceproductid=""
+                    billnow="false"
+                    offer=""
+                    upsell=""
+                    quantity=""
+                    price=""
+                    onclick="linkMethod(event)"
+                    >Privacy Policy</a
+                  >.
+                </div>
+              </div>
+              <div id="ifb0c2" data-secondsdelay="">
+                <button
+                  data-id="fkt-button-562-58b-870-PAYPAL-AFTERPAY-AFTERPAY-PAYPAL-AFTERPAY"
+                  title="Complete Order"
+                  align="center"
+                  data-secondsdelay=""
+                  data-minutesdelay=""
+                  type="button"
+                  onclick="callMethod(event)"
+                  action="submit"
+                  replaceproductid=""
+                  size="none"
+                  billnow="false"
+                  quantity=""
+                  price=""
+                  id="ie3z3b"
+                  desktopsize="none"
+                  data-text-value="
+                  Complete Order
+                "
+                  mobilesize="none"
+                  name="-PAYPAL-AFTERPAY-AFTERPAY-PAYPAL-AFTERPAY"
+                  animate=""
+                  variantvalue=""
+                  offer=""
+                  upsell=""
+                  class="btn btn-primary btn-one-style fk-ie3z3b"
+                >
+                  Complete Order
+                </button>
+              </div>
+            </div>
+            <hr id="iveqb" class="fk-line horizontal-line-default" />
+            <div data-secondsdelay="" id="i9n3rb">
+              <a
+                id="fkt-link-f06-9bd-9fa"
+                data-id="fkt-link-7f1-b83-83c"
+                title="refund policy"
+                target="_self"
+                action="route"
+                align="center"
+                animate=""
+                speed=""
+                delay=""
+                loop="none"
+                data-secondsdelay=""
+                data-minutesdelay=""
+                replaceproductid=""
+                billnow="false"
+                quantity=""
+                price=""
+                onclick="linkMethod(event)"
+                variantvalue=""
+                offer=""
+                upsell=""
+                >Refund policy</a
+              ><a
+                id="fkt-link-44c-3b7-b35"
+                data-id="fkt-link-44c-3b7-b35"
+                title="Privacy policy"
+                target="_self"
+                action="route"
+                align="center"
+                animate=""
+                speed=""
+                delay="none"
+                loop="none"
+                data-secondsdelay=""
+                data-minutesdelay=""
+                replaceproductid=""
+                billnow="false"
+                quantity=""
+                price=""
+                onclick="linkMethod(event)"
+                variantvalue=""
+                offer=""
+                upsell=""
+                >Privacy policy</a
+              ><a
+                id="fkt-link-298-ca5-a29"
+                data-id="fkt-link-298-ca5-a29"
+                title="Terms of service"
+                target="_self"
+                action="route"
+                align="center"
+                animate=""
+                speed=""
+                delay=""
+                loop="none"
+                data-secondsdelay=""
+                data-minutesdelay=""
+                replaceproductid=""
+                billnow="false"
+                quantity=""
+                price=""
+                onclick="linkMethod(event)"
+                variantvalue=""
+                offer=""
+                upsell=""
+                >Terms of service</a
+              ><a
+                id="cc-id-IQ6jGbYhRtpP"
+                data-id="fkt-link-298-ca5-a29-2"
+                title="contact policy"
+                target="_self"
+                action="route"
+                align="center"
+                animate=""
+                speed=""
+                delay="none"
+                loop="none"
+                data-secondsdelay=""
+                data-minutesdelay=""
+                replaceproductid=""
+                billnow="false"
+                quantity=""
+                price=""
+                onclick="linkMethod(event)"
+                variantvalue=""
+                offer=""
+                upsell=""
+                >Cancellation policy</a
+              ><a
+                id="cc-id-t0S5ReTfCd9V"
+                data-id="fkt-link-298-ca5-a29-2-2"
+                title="Cancellation policy"
+                target="_self"
+                action="route"
+                align="center"
+                animate=""
+                speed=""
+                delay=""
+                loop="none"
+                data-secondsdelay=""
+                data-minutesdelay=""
+                replaceproductid=""
+                billnow="false"
+                quantity=""
+                price=""
+                onclick="linkMethod(event)"
+                variantvalue=""
+                offer=""
+                upsell=""
+                >Contact policy</a
+              >
+            </div>
+          </section>
+        </div>
+        <div
+          align="center"
+          id="i33dp"
+          data-secondsdelay=""
+          class="fk-col col-12 order-1 order-lg-2 sidebar col-lg-5 col-xl-5 cc-id-FxxkgMJ4j6PJ"
+        >
+          <div data-box="true" data-secondsdelay="" id="i8r4vf">
+            <div
+              align="left"
+              data-secondsdelay=""
+              id="i2c7t5"
+              class="cc-cart-wrapper"
+            >
+              <div
+                id="i0y3bh"
+                class="cc-cart-toggle p-1 bg-light d-flex flex-row justify-content-between align-items-center"
+              >
+                <div
+                  data-secondsdelay=""
+                  id="ia6zns"
+                  class="d-flex flex-row align-items-center"
+                >
+                  <div
+                    data-secondsdelay=""
+                    id="cc-id-XNE4Rm21mXTM"
+                    data-cc-desktop="false"
+                    data-cc-tabletlarge="false"
+                    data-cc-tablet="false"
+                    data-cc-mobilelarge="false"
+                    data-cc-mobile="false"
+                    class="p-1"
+                  >
+                    <i
+                      id="cc-id-zUcdXcvDpptN"
+                      class="fa fa-shopping-cart m-1 icp icp-auto"
+                    ></i>
+                  </div>
+                  <div data-secondsdelay="" id="cc-id-Xc0cVk2b2Z8z">
+                    <div
+                      data-secondsdelay=""
+                      id="cc-id-QKytpFcTQJKL"
+                      class="cc-cart-open-text"
+                    >
+                      <span
+                        data-text="text"
+                        data-secondsdelay=""
+                        id="cc-id-LMd1aWTt2i80"
+                        class="m-1"
+                        >Show Order Summary</span
+                      ><i
+                        id="cc-id-KkmwuXtCtE9X"
+                        class="fa fa-caret-down m-1 icp icp-auto"
+                      ></i>
+                    </div>
+                    <div
+                      data-secondsdelay=""
+                      id="cc-id-zdgCy3hpiMS7"
+                      class="cc-cart-hidden-text"
+                    >
+                      <span
+                        data-text="text"
+                        data-secondsdelay=""
+                        id="cc-id-W7gvCRchLVgQ"
+                        class="m-1"
+                        >Hide Order Summary</span
+                      ><i
+                        id="cc-id-d1TDi6geIT8H"
+                        class="fa fa-caret-up m-1 icp icp-auto"
+                      ></i>
+                    </div>
+                  </div>
+                </div>
+                <div data-secondsdelay="" id="cc-id-8u2m5F58ReFy" class="p-1">
+                  <div
+                    data-text="text"
+                    data-secondsdelay=""
+                    id="cc-id-eFdkN4V8SqLj"
+                    class="compareAtTotal"
+                  >
+                    $0.00
+                  </div>
+                  <div
+                    data-text="text"
+                    data-secondsdelay=""
+                    id="cc-id-RT2szoBhawWt"
+                    class="grandTotal"
+                  >
+                    $0.00
+                  </div>
+                </div>
+              </div>
+              <div
+                data-secondsdelay=""
+                id="i8gv7a"
+                class="cc-cart-toggle-target"
+              >
+                <div data-secondsdelay="" id="isn7mk" class="cc-cart-container">
+                  <div data-secondsdelay="" id="i7w10k" class="cc-cart-row">
+                    <div
+                      data-secondsdelay=""
+                      id="cc-id-dj2SCvxo229W"
+                      class="row cc-cart-row-margin bsFlexWrapClass"
+                    >
+                      <div
+                        data-secondsdelay=""
+                        id="iukr9w"
+                        class="p-0 position-relative col-3"
+                      >
+                        <img
+                          src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3R5bGU9ImZpbGw6IHJnYmEoMCwwLDAsMC4xNSk7IHRyYW5zZm9ybTogc2NhbGUoMC43NSkiPgogICAgICAgIDxwYXRoIGQ9Ik04LjUgMTMuNWwyLjUgMyAzLjUtNC41IDQuNSA2SDVtMTYgMVY1YTIgMiAwIDAgMC0yLTJINWMtMS4xIDAtMiAuOS0yIDJ2MTRjMCAxLjEuOSAyIDIgMmgxNGMxLjEgMCAyLS45IDItMnoiPjwvcGF0aD4KICAgICAgPC9zdmc+"
+                          id="fkt-image-87c-db8-952"
+                          title=""
+                          target="_self"
+                          href=""
+                          align="center"
+                          alt=""
+                          width=""
+                          height=""
+                          onclick=""
+                          class="cc-cart-row-img fk-disable-lazy"
+                          loading="lazy"
+                        />
+                        <div
+                          data-text="text"
+                          data-secondsdelay=""
+                          id="ixkgcj"
+                          class="cc-cart-prod-qty-bubble"
+                        >
+                          0
+                        </div>
+                      </div>
+                      <div data-secondsdelay="" id="iziemo" class="p-0 col-9">
+                        <div
+                          data-secondsdelay=""
+                          id="io8cse"
+                          class="row cc-cart-row-margin bsFlexWrapClass"
+                        >
+                          <div
+                            data-secondsdelay=""
+                            id="cc-id-c9EmY7GXAeK7"
+                            class="col-6 cc-cart-row-content p-0"
+                          >
+                            <div
+                              data-text="text"
+                              data-secondsdelay=""
+                              id="cc-id-RJPf06EwDBfm"
+                              class="cc-cart-row-prod-title"
+                            >
+                              Name
+                            </div>
+                            <div
+                              data-secondsdelay=""
+                              id="cc-id-xoMcbVBwNP5Q"
+                              class="cc-cart-row-variant"
+                            >
+                              <span
+                                data-text="text"
+                                data-secondsdelay=""
+                                id="cc-id-bECK2jjanh0k"
+                                class="cc-cart-row-prod-variant-label font-weight-bold mr-1"
+                                >Label</span
+                              ><span
+                                data-text="text"
+                                data-secondsdelay=""
+                                id="cc-id-ZEtviwXJpyHf"
+                                class="cc-cart-row-prod-variant cc-cart-row-frequency"
+                                >Variant</span
+                              >
+                            </div>
+                            <div
+                              data-secondsdelay=""
+                              id="inl4xi"
+                              class="cc-cart-row-trash-icon-container"
+                            >
+                              <i
+                                id="cc-id-Rsl07QGs7itf"
+                                class="cc-cart-row-trash-icon fa fa-trash icp icp-auto"
+                              ></i>
+                            </div>
+                          </div>
+                          <div
+                            data-secondsdelay=""
+                            id="iqnnbh"
+                            class="col-6 cc-cart-row-content p-0"
+                          >
+                            <div
+                              data-secondsdelay=""
+                              id="iey4sx"
+                              class="text-center p-2"
+                            >
+                              <i
+                                id="cc-id-Lnz0rgriL2QZ"
+                                class="fa fa-minus cc-cart-row-qty-btn cc-cart-row-prod-qty-minus icp icp-auto"
+                              ></i>
+                              <div
+                                data-text="text"
+                                data-secondsdelay=""
+                                id="cc-id-hIc8gduEE6w3"
+                                class="cc-cart-row-prod-qty-container cc-cart-row-prod-qty"
+                              >
+                                1
+                              </div>
+                              <i
+                                id="cc-id-Dd83uCH14bDl"
+                                class="fa fa-plus cc-cart-row-qty-btn cc-cart-row-prod-qty-plus icp icp-auto"
+                              ></i>
+                            </div>
+                            <div
+                              data-secondsdelay=""
+                              id="cc-id-evk3e9m3bFVn"
+                              class="text-center"
+                            >
+                              <div
+                                data-text="text"
+                                data-secondsdelay=""
+                                id="cc-id-u0LyQkQWrU0Q"
+                                class="cc-cart-row-prod-price"
+                              >
+                                $0.00
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <form id="iyio0x" class="form form-style">
+                <div
+                  data-secondsdelay=""
+                  id="itfnkz"
+                  class="fk-element-container half-width top-margin"
+                >
+                  <input
+                    type="text"
+                    name="couponCode"
+                    placeholder="Discount code"
+                    customval=""
+                    id="couponCode1"
+                    class="form-control-custom"
+                  />
+                </div>
+                <button
+                  disabled=""
+                  data-id="fkt-button-e5d-387-a56-2"
+                  title=""
+                  align="center"
+                  data-secondsdelay=""
+                  data-minutesdelay=""
+                  type="button"
+                  onclick="applyCoupon(event)"
+                  action="applyCoupon"
+                  replaceproductid=""
+                  size="none"
+                  billnow="false"
+                  quantity=""
+                  price=""
+                  id="iuco4x"
+                  desktopsize="none"
+                  variantvalue=""
+                  offer=""
+                  upsell=""
+                  class="disabled enabled btn btn-primary apply-coupon fk-iuco4x"
+                >
+                  Apply
+                </button>
+              </form>
+              <div
+                align="right"
+                data-secondsdelay=""
+                id="iqn5cf"
+                class="cc-cart-details-block"
+              >
+                <span id="itsdmp" data-layer-name="Span" class="d-inline-block"
+                  ><span
+                    data-text="text"
+                    data-secondsdelay=""
+                    id="i4hj6b"
+                    class="cc-cart-details-label"
+                    >Subtotal</span
+                  ><span
+                    data-text="text"
+                    data-secondsdelay=""
+                    id="i5uhrr"
+                    data-element-absolute=""
+                    class="cc-cart-details-label"
+                    >Shipping </span
+                  ><span
+                    data-text="text"
+                    data-secondsdelay=""
+                    id="i6zqhu"
+                    class="cc-cart-details-label"
+                    >Discount</span
+                  ><span
+                    data-text="text"
+                    data-secondsdelay=""
+                    id="i28rf8"
+                    class="cc-cart-details-label"
+                    >Total</span
+                  ></span
+                ><span id="cc-id-zED2Tjh06c4q" class="d-inline-block"
+                  ><span
+                    data-text="text"
+                    data-secondsdelay=""
+                    id="iln6ms"
+                    class="dynamic-price-total cc-cart-details-value"
+                    >$0.00</span
+                  ><span
+                    data-text="text"
+                    data-secondsdelay=""
+                    id="iswste"
+                    class="dynamic-shipping-total cc-cart-details-value"
+                    >$0.00</span
+                  ><span
+                    data-text="text"
+                    data-secondsdelay=""
+                    id="ixxwm5"
+                    class="discount cc-cart-details-value"
+                    >$0.00</span
+                  >
+                  <div id="cc-id-XPU5JjDnPUg8" data-secondsdelay="">
+                    <span
+                      data-text="text"
+                      data-secondsdelay=""
+                      id="cc-id-99VO7x8SBNUZ"
+                      >USD</span
+                    ><span
+                      data-text="text"
+                      data-secondsdelay=""
+                      id="ia7lpu"
+                      class="grandTotal cc-cart-details-value"
+                      >$0.00</span
+                    >
+                  </div></span
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+       document.addEventListener('DOMContentLoaded', () => {
+      const couponCodeInput1 = document.getElementById('couponCode1');
+      // First input
+      const couponCodeInput2 = document.getElementById('couponCode2');
+      // Second input
+      const applyButton1 = document.getElementById('iuco4x');
+      // First button
+      const applyButton2 = document.getElementById('ijgyon');
+      // Second button
+      function toggleButton(input, button) {
+        if (input && button) {
+      	input.addEventListener('input', () => {
+      	  const hasValue = input.value.trim() !== '';
+      	  button.disabled = !hasValue;
+      	  if (hasValue) {
+      		button.classList.add('enabled');
+      		button.classList.remove('disabled');
+      	  }
+      	  else {
+      		button.classList.add('disabled');
+      		button.classList.remove('enabled');
+      	  }
+      	}
+      						  );
+        }
+      }
+      // Apply the function to each input-button pair
+      toggleButton(couponCodeInput1, applyButton1);
+      toggleButton(couponCodeInput2, applyButton2);
+       }
+      					   );
+    </script>
+    <script>
+       $("[name=payment_method], [name=fk-payment-option-toggler]").on("change", function(event) {
+      openSections(event.target);
+       }
+      															 );
+    </script>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        const shipAddressInput = document.querySelector('input[name="shipAddress1"]');
+
+        if (shipAddressInput) {
+          shipAddressInput.addEventListener('input', function() {
+            const fullAddressDiv = document.getElementById('shipping-box');
+            const shippingMessage = document.getElementById('enter-shipping-message');
+
+            if (this.value.trim() !== "") {
+              fullAddressDiv.style.display = 'block';
+              shippingMessage.style.display = 'none';
+            } else {
+              fullAddressDiv.style.display = 'none';
+              shippingMessage.style.display = 'block';
+            }
+          });
+        }
+      });
+    </script>
+  </body>
+</html>
+
+
+CSS
+
+img,
+video,
+iframe,
+hr,
+a,
+button {
+  max-width: 100%;
+}
+.fk-lazy,
+body.dom-pending * {
+  background-image: none !important;
+}
+#shipping-box {
+  margin-top: 15px;
+  display: none;
+}
+#cc-id-tnMTtKcxxLcd {
+  text-align: left;
+  color: rgba(0, 0, 0, 0.56);
+}
+#enter-shipping-message {
+  padding: 17px;
+  margin-top: 14px;
+  margin-bottom: 14px;
+  border-radius: 5px;
+  background-color: rgb(245, 245, 245);
+  width: 100%;
+}
+[name="shipProfileId"]:checked {
+  background-color: rgb(242, 247, 255);
+  border: 1px solid rgb(24, 115, 176) !important;
+}
+[name="billShipSame"]:checked {
+  background-color: rgb(242, 247, 255);
+  border: 1px solid rgb(24, 115, 176) !important;
+}
+.cc-cart-open-text {
+  color: rgb(24, 115, 176);
+}
+.cc-cart-hidden-text {
+  color: rgb(24, 115, 176);
+}
+input:not([type="checkbox"]),
+input:not([type="radio"]) {
+  padding: 12px 18px;
+  accent-color: rgb(24, 115, 176);
+  font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, "sans-serif", "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "sans-serif";
+}
+.sticky {
+  top: 0px;
+  position: sticky;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0px;
+  font-size: 14px;
+  overflow-wrap: break-word;
+  word-break: break-word;
+  overflow-x: hidden;
+  height: 100%;
+  color: rgb(111, 111, 111);
+  font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, "sans-serif", "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "sans-serif";
+}
+.basic-information-section {
+  padding-left: 2rem;
+  height: auto;
+}
+#ib8r0u i {
+  position: absolute;
+  z-index: 1;
+  top: 90px;
+  right: 40px;
+}
+html {
+  min-height: 100%;
+}
+:-webkit-autofill {
+  color: rgb(255, 255, 255);
+}
+h3 {
+  font-size: 20px;
+  margin: 0px;
+  font-weight: 700;
+  color: rgb(53, 53, 53);
+  line-height: 1.2;
+}
+p {
+  margin: 0px;
+}
+hr {
+  margin: 8px 0px;
+  border-top: 1px solid rgb(230, 230, 230);
+}
+a#a-link {
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+  color: rgb(24, 120, 185);
+}
+a#a-link:hover {
+  color: rgb(20, 100, 153);
+}
+.padding-left-20 {
+  padding-left: 20px;
+}
+.select-wrap {
+  position: relative;
+  width: 100%;
+  margin-bottom: 12px;
+}
+.CE__shipping-component {
+  padding-bottom: 48px;
+}
+#iqxgi {
+  font-size: 21px;
+  line-height: 1.3em;
+  text-align: left;
+  font-weight: 600;
+  margin-bottom: 0px;
+  padding-left: 6px;
+  margin-top: 10px;
+  font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, "sans-serif", "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "sans-serif";
+  color: rgb(51, 51, 51);
+}
+.ch-express-checkout-group-or-line {
+  font-size: 0.85714em;
+  margin-top: 28px;
+  padding-bottom: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  line-height: 1.4;
+  text-align: center;
+  text-transform: uppercase;
+  color: rgb(115, 115, 115);
+}
+.ch-express-checkout-group-or-line span {
+  display: inline-block;
+  padding: 0px 1em;
+}
+.ch-express-checkout-group-or-line::after {
+  content: "";
+  display: inline-block;
+  height: 1px;
+  background-color: rgb(230, 230, 230);
+  flex-grow: 1;
+}
+.ch-express-checkout-group-or-line::before {
+  content: "";
+  display: inline-block;
+  height: 1px;
+  background-color: rgb(230, 230, 230);
+  flex-grow: 1;
+}
+#shipping {
+  padding: 0px 6px 1px;
+  margin-top: 0px;
+  flex-direction: column;
+  align-items: center;
+}
+#iwrim6 {
+  display: none;
+}
+label {
+  font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, "sans-serif", "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "sans-serif";
+}
+form {
+  margin-bottom: 0px;
+}
+.horizontal-line-default {
+  width: 100%;
+  background-color: rgb(0, 0, 0);
+}
+select {
+  padding: 12px 18px;
+  font-size: 1rem;
+}
+.sidebar::after {
+  content: "";
+  display: block;
+  width: 300%;
+  position: absolute;
+  top: 0px;
+  left: -100%;
+  bottom: 0px;
+  background: rgb(250, 250, 250);
+  z-index: -1;
+  box-shadow: rgb(225, 225, 225) 0px -1px 0px inset;
+}
+#i5l5r7 {
+  line-height: 50px;
+  margin: 1px 6px 1px auto;
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-top: 1px;
+}
+img {
+  max-width: 100%;
+}
+.fk-row {
+  display: flex;
+  justify-content: flex-start;
+  align-items: stretch;
+  flex-wrap: nowrap;
+  padding: 10px;
+  height: auto;
+}
+#i80rh {
+  padding: 30px 31px 10px;
+  flex-basis: 126%;
+  background-color: white;
+  margin-bottom: 20px;
+  margin-top: 0px;
+}
+#i33dp {
+  position: relative;
+  flex-basis: 127.6%;
+  padding-left: 30.5px;
+  box-shadow: rgb(220, 220, 220) -1px 0px 1px 0px;
+  padding-top: 30px;
+  background-color: rgb(250, 250, 250);
+  padding-right: 30.5px;
+  margin-top: 0px;
+  justify-content: flex-start;
+  align-items: flex-end;
+  background-attachment: scroll;
+  background-image: url("");
+  background-position: 0% 0%;
+  background-repeat: repeat;
+  background-size: auto;
+}
+#ieyjp {
+  border-style: none;
+  border-radius: 4px;
+  border-width: 1px;
+  padding: 6px;
+  border-color: rgb(220, 220, 220);
+  margin: 0px;
+  line-height: inherit;
+}
+#iveqb {
+  height: 0.5px;
+  border-color: rgb(220, 220, 220);
+  border-width: 0.25px;
+  background-color: rgb(220, 220, 220);
+  opacity: 0.9;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#icamgj {
+  border-style: none;
+  border-radius: 4px;
+  border-width: 1px;
+  padding-top: 25px;
+  border-color: rgb(220, 220, 220);
+}
+#i5goz {
+  height: auto;
+  width: auto;
+  padding-left: 1px;
+  padding-bottom: 1px;
+  padding-top: 1px;
+  margin-bottom: 15px;
+}
+#ip2vry {
+  font-size: 1em;
+  line-height: inherit;
+  border-radius: 3px;
+  border-style: solid;
+  border-width: 1px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+  width: 100%;
+  border-color: rgb(222, 222, 222);
+}
+#iej0z2 {
+  font-size: 14px;
+  font-weight: 400;
+  padding: 0px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  line-height: 21px;
+  font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, "sans-serif", "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "sans-serif";
+  color: rgba(0, 0, 0, 0.57);
+}
+#i9ptpj {
+  font-size: 14px;
+  font-weight: 400;
+  padding: 0px 10px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  background-color: white;
+  font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, "sans-serif", "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "sans-serif";
+  color: rgba(0, 0, 0, 0.56);
+}
+#i4deo6 {
+  font-size: 21px;
+  text-align: left;
+  font-weight: 600;
+  line-height: 1.3em;
+  padding: 1px;
+  margin-bottom: 10px;
+  font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, "sans-serif", "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "sans-serif";
+  color: rgb(51, 51, 51);
+}
+#ivalt3 {
+  padding-left: 1px;
+  padding-right: 1px;
+  width: 100%;
+}
+#irrbkt {
+  font-size: 21px;
+  line-height: 1.3em;
+  text-align: left;
+  font-weight: 600;
+  margin-bottom: 1px;
+  padding-left: 6px;
+  font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, "sans-serif", "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "sans-serif";
+  color: rgb(51, 51, 51);
+}
+#inus1 {
+  padding: 0px 1px;
+  max-width: 1070px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+#isx2uw {
+  margin-bottom: 1px;
+  padding-right: 1px;
+  padding-left: 1px;
+}
+#ibin1 {
+  margin-bottom: 1px;
+}
+#ipgaf {
+  margin-bottom: 1px;
+}
+#i61qk {
+  margin-bottom: 1px;
+}
+#i8d7f {
+  margin-bottom: 1px;
+}
+#i7n8s {
+  margin-bottom: 1px;
+  padding-right: 1px;
+  margin-right: 1px;
+}
+#ind3g {
+  padding-right: 6px;
+}
+#iywh43 {
+  padding-left: 1px;
+  padding-right: 1px;
+}
+#iwfdm {
+  padding-right: 6px;
+}
+.ch-express-checkout-group-body {
+  display: flex;
+  justify-content: center;
+  border-width: 0px 1px 1px;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-right-color: rgb(230, 230, 230);
+  border-bottom-color: rgb(230, 230, 230);
+  border-left-color: rgb(230, 230, 230);
+  border-image: initial;
+  border-top-style: initial;
+  border-top-color: initial;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  padding: 0.92857em 1.42857em 1.42857em;
+}
+#id4vz-2 {
+  padding: 1px 6px;
+  border-style: none;
+  border-bottom-left-radius: 1px;
+  border-bottom-right-radius: 1px;
+}
+#io2r2 {
+  margin-top: 6px;
+  margin-bottom: 6px;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+[data-gjs-type="text"][class*="gjs-selected"] {
+  outline: purple solid 3px !important;
+}
+img[data-gjs-type="image"][class*="gjs-selected"] {
+  outline: orange solid 3px !important;
+}
+a[data-gjs-type="link"][class*="gjs-selected"] {
+  outline: purple solid 3px !important;
+}
+a {
+  cursor: pointer;
+}
+[data-gjs-type="input"][class*="gjs-selected"] {
+  border: none;
+  box-shadow: none;
+  outline: green solid 3px !important;
+}
+[data-gjs-type="label"][class*="gjs-selected"] {
+  outline: green solid 3px !important;
+}
+#ibbzi {
+  padding-top: 0px;
+}
+.fk-shopping-cart-plus:active,
+.fk-shopping-cart-minus:not(:hover),
+.fk-shopping-cart-plus:not(:hover) {
+  background: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  border-color: rgb(255, 255, 255);
+}
+.fk-shopping-cart-quantity-wrapper-class > button {
+  background-color: rgb(255, 255, 255);
+  color: black;
+  border-color: rgb(255, 255, 255) rgb(255, 255, 255) white;
+  border-bottom-width: initial;
+  border-bottom-style: initial;
+}
+#fk-dynamic-cart-head > tr > th {
+  overflow-wrap: normal;
+  word-break: normal;
+}
+.table-text[title="Price"],
+.table-text[title="Quantity"] {
+  word-break: normal;
+  overflow-wrap: normal;
+}
+.fk-shopping-cart .cart-display {
+  display: inline-block;
+  margin-right: 0%;
+  font-weight: 500;
+  font-size: 1rem;
+}
+.fk-shopping-cart .table-text {
+  overflow-wrap: normal;
+  word-break: normal;
+}
+.wrap {
+  display: block;
+  margin: 0px auto;
+  max-width: 40em;
+}
+.fk-form-product-radio-checkbox {
+  margin-right: 5px;
+  position: inherit;
+}
+#i0zcsx {
+  height: 18px;
+  width: 18px;
+}
+#ih8fj9 {
+  width: 100%;
+  justify-content: flex-start;
+  padding: 14px 5px 14px 15px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  border: 1px solid rgb(222, 222, 222);
+}
+#iho1ip {
+  margin-left: 10px;
+}
+[data-gjs-type="text"][class*="gjs-comp-selected"] {
+  outline: purple solid 3px;
+}
+.header-row .container::before {
+  background: rgb(92, 92, 92);
+  content: "";
+  display: block;
+  height: 1px;
+  left: 180px;
+  position: absolute;
+  right: 280px;
+  top: 20px;
+  z-index: -1;
+}
+[data-gjs-type="countdown"][class*="gjs-selected"] {
+  outline: rgb(121, 85, 72) solid 3px;
+}
+.tile-header input {
+  width: 20px;
+  height: 20px;
+}
+[data-gjs-type="carouselSlide"][class*="gjs-selected"] {
+  outline: green solid 3px;
+}
+[data-gjs-type="carousel"][class*="gjs-selected"] {
+  border: none;
+  box-shadow: none;
+  outline: green solid 3px;
+}
+[data-gjs-type="form"][class*="gjs-selected"],
+[data-gjs-type="form"] [class*="gjs-selected"] {
+  outline: rgb(139, 195, 74) solid 3px;
+}
+.fk-cart-display-label .cart-display,
+.fk-totals-display-label .value-display {
+  display: block;
+}
+.fk-card-number input {
+  padding: 15px 35px 15px 15px;
+}
+[data-gjs-type="paymentOption"][class*="gjs-selected"] {
+  border: none;
+  box-shadow: none;
+  outline: green solid 3px !important;
+}
+footer > div.fk-footer-row {
+  display: flex;
+  justify-content: flex-start;
+  align-items: stretch;
+  flex-wrap: nowrap;
+  height: auto;
+  margin-top: 100px;
+  background-color: rgb(245, 245, 245);
+  padding: 0px 50px;
+}
+footer .fk-footer-col {
+  min-height: 25px;
+  flex-grow: 1;
+  flex-basis: 100%;
+  padding: 10px;
+}
+#irxb13-3-3 {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+#iwzhod {
+  padding: 16px 1px;
+  font-size: 12px;
+  font-family: Helvetica, serif;
+  text-align: center;
+  margin-bottom: 1px;
+}
+#fkt-link-ab9-18d-bcb {
+  cursor: pointer;
+  color: rgb(0, 86, 179);
+}
+#fkt-link-158-dbc-978 {
+  cursor: pointer;
+  color: rgb(0, 86, 179);
+}
+#iu62du-2-2 {
+  margin-top: 1px;
+  margin-bottom: 6px;
+}
+#icv3tm {
+  padding-left: 6px;
+  padding-right: 6px;
+  display: block;
+  align-items: center;
+  justify-content: flex-end;
+}
+#i81gl {
+  margin-bottom: 1px;
+}
+.fk-payment-option-wrapper {
+  padding: 5px;
+}
+.fk-payment-options {
+  padding: 5px;
+}
+.fk-payment-option-container {
+  position: relative;
+  padding: 0px 5px;
+}
+.fk-card-payment-container {
+  width: 100%;
+}
+#ii092i {
+  margin-bottom: 1px;
+}
+#izu8lp {
+  padding-left: 6px;
+  padding-right: 6px;
+  display: block;
+  align-items: center;
+  justify-content: flex-end;
+}
+#i37kpd {
+  margin-bottom: 1px;
+  padding-right: 1px;
+  padding-left: 1px;
+}
+#ixtamu {
+  margin-bottom: 1px;
+}
+#i9owsl {
+  padding-right: 6px;
+}
+#ihpbd3 {
+  margin-bottom: 1px;
+}
+#ig7p1s {
+  padding-right: 6px;
+  padding-left: 6px;
+}
+#i59my9 {
+  margin-bottom: 1px;
+}
+#ixer3o {
+  margin-bottom: 1px;
+}
+#iukz8u {
+  margin-bottom: 1px;
+}
+#i5ms0z {
+  padding-top: 7.5px;
+  border-color: rgb(222, 222, 222);
+}
+#i7i0tx {
+  margin-bottom: 1px;
+}
+#i7ejms {
+  display: none;
+}
+#billingAddress {
+  padding-left: 1px;
+  padding-right: 1px;
+  width: 100%;
+  border-style: solid;
+  border-width: 0px 1px 1px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  background-color: rgb(250, 250, 250);
+  border-color: rgb(222, 222, 222);
+}
+#ijwvm5 {
+  width: 16px;
+  height: 16px;
+}
+#ih7y4i {
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 1px;
+  display: flex;
+}
+#izx1bw {
+  padding-left: 11px;
+  color: black;
+}
+#fkt-link-f06-9bd-9fa {
+  text-decoration: underline;
+  margin-left: 7px;
+  margin-right: 7px;
+  cursor: pointer;
+  color: rgb(24, 115, 176);
+}
+#fkt-link-44c-3b7-b35 {
+  text-decoration: underline;
+  margin-left: 7px;
+  margin-right: 7px;
+  cursor: pointer;
+  color: rgb(24, 115, 176);
+}
+#fkt-link-298-ca5-a29 {
+  text-decoration: underline;
+  margin-left: 7px;
+  margin-right: 7px;
+  cursor: pointer;
+  color: rgb(24, 115, 176);
+}
+#i9n3rb {
+  text-align: left;
+}
+[data-gjs-type="collapsibleList"][class*="gjs-selected"] {
+  outline: green solid 3px;
+}
+#fkCreditCard {
+  padding-bottom: 17px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-color: rgb(222, 222, 222);
+  display: flex;
+}
+#ic976b {
+  padding-left: 6px;
+}
+#id6yqh {
+  padding-left: 6px;
+  padding-right: 6px;
+}
+#itms4i {
+  padding-left: 6px;
+}
+#iwtcs8 {
+  padding-right: 6px;
+}
+#ieon0q {
+  margin-bottom: 1px;
+}
+#if8lgy {
+  padding-right: 6px;
+}
+.shopPayButton {
+  background-image: url("https://config.checkoutchamp.com/production/shoppay-checkout.png");
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-color: rgb(90, 49, 244);
+  border: 1px solid transparent;
+  color: transparent;
+}
+.shopPayButton:focus {
+  box-shadow: none;
+}
+.shoppay-button-styles {
+  padding: 6px 12px;
+  background-size: contain;
+}
+.fk-i6n5ji {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  width: 200px;
+  height: 45px;
+  padding: 6px 12px;
+  background-size: contain;
+}
+.fk-icxbrw {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  width: 200px;
+  height: 45px;
+  padding: 6px 12px;
+  background-size: cover;
+}
+#i6n5ji {
+  width: 200px;
+  height: 45px;
+  margin-left: 10px;
+}
+.cc-cart-container {
+  margin: 1px;
+  border-radius: 10px;
+  padding: 1px;
+}
+.cc-cart-row {
+  border: 1px solid lightgray;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 16px;
+  word-break: break-word;
+  margin: 5px 0px;
+}
+.cc-cart-row-img {
+  width: 62px;
+  height: 62px;
+  max-height: 150px;
+  object-fit: contain;
+}
+.cc-cart-row-trash-icon {
+  cursor: pointer;
+  padding: 5px;
+  color: rgb(111, 111, 111);
+  border-radius: 5px;
+}
+.cc-cart-row-qty-btn {
+  cursor: pointer;
+  background-color: black;
+  padding: 6px;
+  color: white;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+}
+.cc-cart-row-content {
+  text-align: left;
+}
+.cc-cart-row-prod-qty-container {
+  margin: 5px 2px;
+  min-width: 30px;
+  padding: 2px 5px;
+  border: 1px solid lightgray;
+  display: inline-block;
+}
+.cc-cart-row-prod-title {
+  font-weight: bold;
+  margin: 5px;
+}
+.cc-cart-row-variant {
+  margin: 5px;
+}
+.cc-cart-row-margin {
+  margin: 5px;
+}
+.cc-cart-row-prod-price {
+  margin: 5px;
+}
+#ihjw8n {
+  display: none;
+}
+#imezag {
+  padding: 12px 6px;
+  width: 100%;
+}
+#ifvj32 {
+  height: 18px;
+  margin-left: 5px;
+  width: 18px;
+}
+#i938me {
+  justify-content: flex-start;
+  padding-left: 10px;
+  width: 100%;
+  align-items: center;
+  display: flex;
+}
+#i9stjh {
+  width: 100%;
+  display: flex;
+  border-radius: 0px 0px 4px 4px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(222, 222, 222);
+  justify-content: center;
+  align-items: center;
+}
+.fk-row.gjs-selected {
+  outline: red solid 3px;
+}
+.bsFlexWrapClass {
+  flex-wrap: wrap;
+}
+#iggpb {
+  border-style: solid;
+  border-width: 0px 0px 1px;
+  padding: 21px 38px;
+  border-color: rgb(220, 220, 220);
+  justify-content: center;
+  align-items: center;
+  height: 75px;
+}
+#i0y3bh {
+  display: none;
+}
+#ilmow1 {
+  padding-right: 6px;
+  display: block;
+  align-items: center;
+  justify-content: flex-start;
+}
+.fk-element-container {
+  width: 100%;
+}
+.top-margin {
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+.half-width {
+  display: inline-block;
+  width: 65%;
+}
+.form-style {
+  width: auto;
+}
+#itfnkz {
+  margin: 1px;
+  width: 69%;
+  font-size: 12px;
+}
+#iyio0x {
+  display: block;
+  align-items: center;
+  justify-content: center;
+}
+#iey4sx {
+  display: none;
+}
+#inl4xi {
+  display: none;
+}
+#i8r4vf {
+  top: 0px;
+  width: 100%;
+  padding: 1px;
+  background-color: rgb(250, 250, 250);
+}
+#i7w10k {
+  border-style: none;
+  border-radius: 0px;
+}
+#isn7mk {
+  border-radius: 0px;
+}
+#ikcbuh {
+  border-color: rgb(222, 222, 222);
+}
+#iv7p0f {
+  border-color: rgb(222, 222, 222);
+}
+#is0hm {
+  border-color: rgb(222, 222, 222);
+}
+#il49q {
+  border-color: rgb(222, 222, 222);
+}
+#inl3f {
+  border-color: rgb(222, 222, 222);
+}
+#iwxytv {
+  border-color: rgb(222, 222, 222);
+}
+#icynp {
+  border-color: rgb(222, 222, 222);
+}
+#ixux3d {
+  border-color: rgb(222, 222, 222);
+}
+#i5and6 {
+  border-color: rgb(222, 222, 222);
+}
+#iopnrv {
+  border-color: rgb(222, 222, 222);
+}
+#i66y9z {
+  border-color: rgb(222, 222, 222);
+}
+#iawohj {
+  border-color: rgb(222, 222, 222);
+}
+#ic287e {
+  border-color: rgb(222, 222, 222);
+  font-size: 12px;
+}
+#cc-id-tbm4esx4mrIR {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#cc-id-v64GFGKT0Q60 {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.cc-cart-prod-qty-bubble {
+  background-color: rgb(102, 102, 102);
+  position: absolute;
+  border: 2px solid rgb(102, 102, 102);
+  top: -10px;
+  right: 10px;
+  color: white;
+  border-radius: 50%;
+  height: 22px;
+  width: 22px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font: 10px Arial, sans-serif;
+}
+#cc-id-u0LyQkQWrU0Q {
+  text-align: right;
+}
+#cc-id-eFdkN4V8SqLj {
+  font-size: 13px;
+  font-weight: 500;
+  color: rgb(111, 111, 111);
+  text-align: right;
+  text-decoration-line: line-through;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+#cc-id-RT2szoBhawWt {
+  font-size: 19px;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+}
+#icxbrw {
+  width: 200px;
+  height: 45px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#cc-id-VA1eL5wPMM49 {
+  font-size: 16px;
+  border-color: rgb(222, 222, 222);
+}
+#cc-id-qr1eJyFHSoZo {
+  padding: 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+#cc-id-TWAOQ22tBqMe {
+  font-size: 21px;
+  line-height: 1.3em;
+  text-align: left;
+  font-weight: 600;
+  margin-bottom: 14px;
+  padding-left: 6px;
+  margin-top: 0px;
+  font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, "sans-serif", "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "sans-serif";
+  color: rgb(51, 51, 51);
+}
+.fk-payment-option-toggler-field {
+  position: absolute;
+  top: 14px;
+  left: 15px;
+  height: 20px;
+  width: 20px;
+  cursor: pointer;
+}
+#cc-id-JBy7QDKpCf0Z {
+  border-color: rgb(222, 222, 222);
+  margin-bottom: 0px;
+}
+.fk-payment-option-container:first-child .fk-payment-option-header-wrapper {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.fk-payment-option-container:last-child .fk-payment-option-header-wrapper {
+  border-bottom-right-radius: 5px !important;
+  border-bottom-left-radius: 5px !important;
+}
+.fk-payment-option-header-wrapper {
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border: 1px solid rgb(217, 217, 217);
+  display: block;
+}
+.fk-payment-option-toggler-field:checked ~ .fk-payment-option-header-wrapper {
+  background-color: rgb(242, 247, 255);
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border: 1px solid rgb(24, 115, 176) !important;
+}
+.fk-form-general-radio-checkbox {
+  margin-right: 5px;
+  position: inherit;
+}
+#in2eyz {
+  height: 18px;
+  margin-left: 5px;
+  width: 18px;
+}
+#iupy1w {
+  justify-content: flex-start;
+  padding-left: 10px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+#iryvkj {
+  width: 100%;
+  display: flex;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(222, 222, 222);
+}
+.fk-form-radio-button-parent:has([name="shipProfileId"]:checked) {
+  background-color: rgb(242, 247, 255);
+  border: 1px solid rgb(24, 115, 176) !important;
+}
+.fk-form-radio-button-parent:has([name="billShipSame"]:checked) {
+  background-color: rgb(242, 247, 255);
+  border: 1px solid rgb(24, 115, 176) !important;
+}
+.fk-form-radio-button-parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#cc-id-a536SoCvmMND {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#cc-id-qcSGvs12pzsK {
+  border-color: rgb(222, 222, 222);
+  margin-bottom: 0px;
+}
+#cc-id-IQ6jGbYhRtpP {
+  text-decoration: underline;
+  margin-left: 7px;
+  margin-right: 7px;
+  cursor: pointer;
+  color: rgb(24, 115, 176);
+}
+#cc-id-pG7sjSPQRfbX {
+  margin-right: 6px;
+  width: 80px;
+  height: 19px;
+  color: black;
+}
+.fk-card-one {
+  background-image: url("https://assets.checkoutchamp.com/f09818f0-af22-11ea-afe1-abac30942df7/visa.svg");
+}
+.fk-card-two {
+  background-image: url("https://assets.checkoutchamp.com/f09818f0-af22-11ea-afe1-abac30942df7/master.svg");
+}
+.fk-card-three {
+  background-image: url("https://assets.checkoutchamp.com/f09818f0-af22-11ea-afe1-abac30942df7/american.svg");
+}
+.tooltipper .tooltippertext {
+  visibility: hidden;
+  width: 150px;
+  background-color: black;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0px;
+  position: absolute;
+  z-index: 1;
+  top: 100%;
+  left: 50%;
+  margin-left: -75px;
+}
+.tooltipper:hover .tooltippertext {
+  visibility: visible;
+}
+.fk-payment-option-header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px 10px;
+  height: 40px;
+}
+.fk-payment-option-label {
+  margin-left: 30px;
+  font-weight: bold;
+  color: rgb(111, 111, 111);
+  padding: 5px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+  text-align: left;
+}
+.fk-headline {
+  font-weight: 400;
+  color: black;
+}
+#iqn5cf {
+  justify-content: space-between;
+  display: flex;
+}
+#i6zqhu {
+  display: none;
+}
+#i28rf8 {
+  padding: 1px;
+  font-size: 19px;
+  font-weight: 700;
+  text-align: left;
+  color: black;
+}
+#i4hj6b {
+  padding: 1px;
+  font-size: 14px;
+  text-align: left;
+  margin-bottom: 11px;
+  color: black;
+}
+#i5uhrr {
+  padding: 1px;
+  font-size: 14px;
+  text-align: left;
+  margin-bottom: 11px;
+  color: black;
+}
+.tooltipper2 .tooltipper2box {
+  visibility: hidden;
+  width: 50px;
+  background-color: black;
+  color: rgb(0, 0, 0);
+  border: 1px solid rgb(0, 0, 0);
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0px;
+  position: absolute;
+  z-index: 1;
+  bottom: 120%;
+  right: -20%;
+}
+.tooltipper2:hover .tooltipper2box {
+  visibility: visible;
+}
+.popup-title > span {
+  background-color: rgb(231, 234, 190);
+  color: rgb(53, 53, 53) !important;
+  font-family: "Proxima Nova", Helvetica, Arial, sans-serif !important;
+}
+.text-center {
+  text-align: center;
+}
+#ihacf {
+  max-width: 1070px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 21px 31px;
+  height: 75px;
+}
+.fk-col {
+  min-height: 25px;
+  flex-grow: 1;
+  flex-basis: 100%;
+  padding: 10px;
+}
+.fk-col.gjs-selected {
+  outline: rgb(248, 186, 3) solid 3px;
+}
+#fkt-image-0d4-2bc-8bc {
+  height: 100%;
+  color: black;
+  width: auto;
+  margin-left: 0px;
+  margin-right: auto;
+}
+#cc-id-pJEoqfhMNtwa {
+  padding: 0px;
+  width: auto;
+}
+.gjs-cv-canvas__tools > #gjs-tools > .gjs-toolbar > div > .fa-trash-o {
+  pointer-events: none;
+}
+.text-danger {
+  display: none;
+  padding-top: 4px;
+  color: rgb(246, 108, 105);
+  font-size: 14px;
+}
+.input-wrap {
+  position: relative;
+  width: 100%;
+  margin-bottom: 12px;
+}
+.input-wrap .input-label {
+  pointer-events: none;
+  overflow: hidden;
+  position: absolute;
+  top: 15px;
+  left: 0px;
+  width: calc(100% - 13px);
+  padding-left: 13px;
+  padding-right: 13px;
+  font-size: 14px;
+  font-weight: normal;
+  white-space: nowrap;
+  color: rgb(153, 153, 153);
+}
+.field {
+  width: 100%;
+  float: left;
+  padding: 0.428571em;
+  box-sizing: border-box;
+}
+#iyvul4 {
+  margin-bottom: 1px;
+}
+#isk5ht {
+  padding-right: 6px;
+}
+#ib1bpx {
+  border-color: rgb(222, 222, 222);
+}
+#cc-id-CI4UVhQgIh99 {
+  margin-left: 4px;
+}
+#cc-id-rXxus7AxHcFx {
+  padding: 1px;
+  width: auto;
+  margin-top: 1px;
+  align-self: center;
+  color: rgb(111, 111, 111);
+  border-color: rgb(111, 111, 111);
+}
+#cc-id-nX3B8g7KrVOx {
+  border-color: rgb(111, 111, 111);
+  font-size: 14px;
+}
+.tooltipper4 {
+  position: relative;
+  display: block;
+  cursor: pointer;
+}
+.tooltipper4 .tooltipper4box {
+  font-size: 12px;
+  visibility: hidden;
+  width: 150px;
+  background-color: black;
+  color: white;
+  border: 1px solid rgb(0, 0, 0);
+  text-align: center;
+  border-radius: 6px;
+  padding: 10px;
+  position: absolute;
+  z-index: 1;
+  bottom: 120%;
+  right: -250%;
+}
+.tooltipper4:hover .tooltipper4box {
+  visibility: visible;
+}
+.tooltipper5 {
+  position: relative;
+  display: block;
+  cursor: pointer;
+}
+.tooltipper5 .tooltipper5box {
+  font-size: 12px;
+  visibility: hidden;
+  width: 150px;
+  background-color: black;
+  color: white;
+  border: 1px solid rgb(0, 0, 0);
+  text-align: center;
+  border-radius: 6px;
+  padding: 10px;
+  position: absolute;
+  z-index: 1;
+  bottom: 120%;
+  right: -250%;
+}
+.tooltipper5:hover .tooltipper5box {
+  visibility: visible;
+}
+.fk-card-payment-field input {
+  outline: none;
+  font-size: 18px;
+  padding: 15px;
+  height: 45px;
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid rgb(206, 212, 218);
+  box-sizing: border-box;
+}
+.fk-card-payment-field {
+  flex: 1 1 0%;
+  margin: 10px;
+  position: relative;
+}
+.fk-card-multiple-payment-field {
+  display: flex;
+  flex-direction: row;
+}
+#cc-id-OrjapQMwHrBU {
+  font-size: 16px;
+  border-color: rgb(222, 222, 222);
+}
+#cc-id-GqI0jr5NRSOL {
+  font-size: 16px;
+  border-color: rgb(222, 222, 222);
+}
+.fk-card-payment-field-icon {
+  position: absolute;
+  top: 12px;
+  right: 20px;
+}
+#cc-id-lIeCzRDqlfkF {
+  cursor: pointer;
+}
+#cc-id-9RHMHbpqydjt {
+  color: rgb(0, 0, 0);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 14px;
+  font-style: normal;
+  font-variant-ligatures: normal;
+  font-variant-caps: normal;
+  font-weight: 400;
+  letter-spacing: normal;
+  orphans: 2;
+  text-align: start;
+  text-indent: 0px;
+  text-transform: none;
+  widows: 2;
+  word-spacing: 0px;
+  -webkit-text-stroke-width: 0px;
+  white-space: normal;
+  background-color: rgb(255, 255, 255);
+  text-decoration-thickness: initial;
+  text-decoration-style: initial;
+  text-decoration-color: initial;
+  float: none;
+  display: inline !important;
+}
+#cc-id-nX3B8g7KrVOx-2 {
+  font-size: 14px;
+}
+#ifb0c2 {
+  padding: 10px 6px;
+  font-size: 12px;
+  text-align: left;
+  margin-bottom: 1px;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, "sans-serif", "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "sans-serif";
+  color: rgb(83, 83, 83);
+  display: flex;
+}
+.fk-ie3z3b {
+  margin-left: auto;
+  margin-right: auto;
+}
+#ie3z3b {
+  margin: 1px;
+  font-weight: 500;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  border-style: none;
+  width: 100%;
+  border-color: rgb(66, 160, 114);
+  background-color: rgb(24, 115, 176);
+  display: block;
+  animation-delay: 0s;
+}
+#ie3z3b:hover {
+  background-color: rgb(17, 90, 140);
+}
+#ie3z3b.cc-hover {
+  background-color: rgb(17, 90, 140);
+}
+.fk-iuco4x {
+  margin-left: auto;
+  margin-right: auto;
+}
+.enabled {
+  margin-left: 5px;
+  margin-right: 5px;
+  border-style: solid;
+  border-color: rgb(39, 108, 208);
+  background-color: rgb(39, 108, 208);
+  font-weight: 500 !important;
+  color: white !important;
+  padding-top: 14px !important;
+  padding-bottom: 14px !important;
+  font-size: 10px !important;
+}
+.disabled {
+  font-weight: 500;
+  border-style: solid;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  font-size: 14px !important;
+  background-color: rgb(241, 241, 241) !important;
+  color: rgb(181, 181, 181) !important;
+  border-color: rgb(218, 218, 218) !important;
+}
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  white-space: normal;
+  vertical-align: middle;
+  user-select: none;
+  border: 1px solid transparent;
+  padding: 10px 25px;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  margin: 20px 10px;
+  font-size: 20px;
+}
+.btn-primary {
+  background: rgb(0, 123, 255);
+  color: rgb(255, 255, 255);
+  border-color: rgb(0, 123, 255);
+  white-space: normal;
+}
+.btn.btn-primary.btn-one-style:active:focus {
+  box-shadow: none;
+}
+.btn.btn-primary {
+  background: rgb(0, 123, 255);
+  color: rgb(255, 255, 255);
+  border-color: rgb(0, 123, 255);
+  white-space: normal;
+}
+.btn.btn-primary.btn-one-style:focus {
+  box-shadow: none;
+}
+.btnGoogle2 {
+  background-image: url("https://config.checkoutchamp.com/production/google-checkout2.png");
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  border-width: 0px;
+  border-color: black;
+  background-color: transparent;
+  color: transparent;
+}
+.btnGoogle2:focus {
+  box-shadow: none;
+}
+.btn-google2-styles {
+  background-size: cover;
+  padding: 6px 12px;
+}
+#ixxwm5 {
+  display: none;
+}
+#iln6ms {
+  padding: 1px;
+  font-size: 14px;
+  margin-bottom: 11px;
+  color: black;
+}
+#iswste {
+  padding: 1px;
+  font-size: 14px;
+  margin-bottom: 11px;
+  color: black;
+}
+#ia7lpu {
+  padding: 1px;
+  font-size: 19px;
+  font-weight: 700;
+  color: black;
+}
+#cc-id-99VO7x8SBNUZ {
+  padding: 1px;
+  font-size: 12px;
+  font-weight: 400;
+  color: rgb(102, 102, 102);
+  margin-right: 7px;
+}
+#cc-id-XPU5JjDnPUg8 {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+.fk-totals-display-label .salesTax {
+  width: unset;
+}
+.cc-cart-details-block {
+  display: block;
+  padding: 5px 10px;
+}
+.tooltipper3 .tooltipper3box {
+  visibility: hidden;
+  width: 150px;
+  background-color: black;
+  color: white;
+  border: 1px solid rgb(0, 0, 0);
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0px;
+  position: absolute;
+  z-index: 1;
+  bottom: 120%;
+  right: -250%;
+}
+.tooltipper3:hover .tooltipper3box {
+  visibility: visible;
+}
+#cc-id-SvyIBYgLZ7LF {
+  justify-content: space-between;
+  display: flex;
+}
+#cc-id-9B3OMfzdxcLO {
+  padding: 1px;
+  font-size: 14px;
+  text-align: left;
+  margin-bottom: 11px;
+  color: black;
+}
+#cc-id-1mKpxMYdbbYh {
+  padding: 1px;
+  font-size: 14px;
+  text-align: left;
+  margin-bottom: 11px;
+  color: black;
+}
+#cc-id-HLaNOZNyFMI1 {
+  display: none;
+}
+#cc-id-ulemnPSSyLf7 {
+  padding: 1px;
+  font-size: 19px;
+  font-weight: 700;
+  text-align: left;
+  color: black;
+}
+#cc-id-JU6YdKVyFgla {
+  padding: 1px;
+  font-size: 14px;
+  margin-bottom: 11px;
+  color: black;
+}
+#cc-id-gi3t1uEUzo67 {
+  padding: 1px;
+  font-size: 14px;
+  margin-bottom: 11px;
+  color: black;
+}
+#cc-id-nNuAsXn38yDu {
+  display: none;
+}
+.dynamic-price-total {
+  font-size: 14px;
+  font-weight: 500;
+}
+.dynamic-shipping-total {
+  font-size: 14px;
+  font-weight: 500;
+}
+.discount {
+  font-size: 14px;
+  font-weight: 500;
+}
+.fk-totals-display-label .discount {
+  width: unset;
+}
+.grandTotal {
+  font-size: 14px;
+  font-weight: 500;
+}
+.fk-shopping-cart .dynamic-price-total,
+.fk-shopping-cart .dynamic-shipping-total,
+.fk-shopping-cart .salesTax,
+.fk-shopping-cart .discount,
+.fk-shopping-cart .grandTotal {
+  font-size: 1rem;
+  font-weight: 500;
+  margin-right: 0.75rem;
+}
+.cc-cart-details-block .cc-cart-details-value,
+.cc-cart-details-block .cc-cart-details-label {
+  padding: 10px;
+  text-align: right;
+  display: block;
+  width: auto;
+  font-size: 16px;
+  font-weight: 400;
+}
+#cc-id-vsuv1XTNpBXP {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+#cc-id-K2CXYeKjXddu {
+  padding: 1px;
+  font-size: 12px;
+  font-weight: 400;
+  color: rgb(102, 102, 102);
+  margin-right: 7px;
+}
+#cc-id-VKXfqXSzgzzH {
+  padding: 1px;
+  font-size: 19px;
+  font-weight: 700;
+  color: black;
+}
+#cc-id-e1Nn5wKDdro9 {
+  text-align: left;
+  padding: 0px 6px;
+  margin-bottom: 16px;
+  width: 100%;
+}
+#cc-id-z4yhsLu3IBUv {
+  margin-bottom: 10px;
+  color: rgb(0, 0, 0);
+  font-size: 21px;
+  font-weight: 600;
+}
+#cc-id-KBwmaiz8efqX {
+  color: rgb(112, 112, 112);
+}
+#cc-id-t0S5ReTfCd9V {
+  text-decoration: underline;
+  margin-left: 7px;
+  margin-right: 7px;
+  cursor: pointer;
+  color: rgb(24, 115, 176);
+}
+#cc-id-wq7orNmW5xR7 {
+  display: block;
+  align-items: center;
+  justify-content: center;
+}
+#cc-id-fJiBlbfx3jxD {
+  margin: 1px;
+  width: 70%;
+  font-size: 12px;
+}
+#cc-id-2j1Jc04Pmjwv {
+  border-color: rgb(222, 222, 222);
+  font-size: 12px;
+}
+.fk-collapsible-list summary::marker {
+  content: none;
+}
+.fk-collapsible-list summary::-webkit-details-marker {
+  display: none;
+}
+details[open] .fk-collapsible-list-content {
+  display: block;
+  border-radius: 0px 0px 5px 5px;
+}
+.fk-collapsible-list details[open] .fk-collapsible-list-left-label {
+  border-radius: 5px 5px 0px 0px;
+}
+body.dom-pending *,
+.fk-lazy {
+  background-image: none !important;
+}
+#cc-id-WbqpgymZ0ULV {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#cc-id-13dP1rzy7WYm {
+  border-color: rgb(222, 222, 222);
+  margin-bottom: 0px;
+}
+#cc-id-linUabTGyeGg {
+  margin-right: 6px;
+}
+#cc-id-SRQ3EEudMxRD {
+  width: 40px;
+  height: 25px;
+  background-color: rgb(255, 255, 255);
+  border-style: solid;
+  border-color: rgb(222, 222, 222);
+  border-width: 1px;
+  border-radius: 4px;
+}
+#cc-id-4JzW0pTdKX5R {
+  padding: 1px;
+  width: 40px;
+  margin-top: 1px;
+  align-self: center;
+  color: rgb(66, 133, 255);
+}
+#cc-id-zkCMT79fRqcY {
+  margin-right: 2px;
+}
+#cc-id-IGXd8pxJtxMO {
+  margin-left: 2px;
+  margin-right: 2px;
+}
+#cc-id-9cZ8QaHtI8YV {
+  margin-left: 2px;
+  margin-right: 2px;
+}
+#cc-id-2BNuf6utUMWs {
+  font-size: 14px;
+}
+#paypal {
+  padding-bottom: 17px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-color: rgb(222, 222, 222);
+  display: flex;
+}
+#cc-id-urwumBNiJRmC {
+  font-size: 14px;
+}
+.fk-payment-option-container:last-child .fk-payment-option-body {
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.fk-payment-option-body {
+  background-color: rgb(250, 250, 250);
+  display: flex;
+  align-items: center;
+  border: 1px solid rgb(217, 217, 217);
+}
+.fk-payment-option-toggler-field:checked ~ .fk-payment-option-body {
+  display: flex;
+  border: 1px solid rgb(217, 217, 217);
+}
+#cc-id-MQ07tnL2UZrK {
+  padding: 14px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-color: rgb(222, 222, 222);
+  display: flex;
+}
+#cc-id-JXDgJJHTIL5O {
+  color: black;
+}
+#cc-id-cG53iTATjmhr {
+  color: black;
+  height: auto;
+  width: 160px;
+}
+#cc-id-hkW0InfsSQGT {
+  margin: 5px;
+}
+#cc-id-1WbEu09s77yz {
+  margin-top: 21px;
+}
+#ifjbi {
+  padding-top: 7.5px;
+  border-color: rgb(222, 222, 222);
+}
+#itruo {
+  padding-top: 1px;
+  border-color: rgb(222, 222, 222);
+}
+#i1balf {
+  padding-top: 1px;
+  border-color: rgb(222, 222, 222);
+}
+.select-wrap .ch-select.ch-dirty {
+  padding-top: 22px;
+}
+.select-wrap .ch-select {
+  padding-right: 32px;
+}
+.select-wrap .ch-select-arrow {
+  pointer-events: none;
+  position: absolute;
+  z-index: 1;
+  top: 0px;
+  right: 0px;
+  width: 30px;
+  height: 50px;
+  line-height: 50px;
+  border-left: 1px solid rgb(217, 217, 217);
+  text-align: center;
+}
+.select-wrap .ch-select-arrow::before {
+  content: "";
+  display: block;
+  position: relative;
+  top: 50%;
+  width: 0px;
+  height: 0px;
+  margin: auto;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-top: 4px solid rgb(115, 115, 115);
+  transform: translateY(-50%);
+}
+.input-wrap .ch-input,
+.select-wrap .ch-select {
+  appearance: none;
+  outline: none;
+  width: 100%;
+  height: 50px;
+  border: 1px solid rgb(217, 217, 217);
+  color: rgb(51, 51, 51);
+  font-size: 14px;
+}
+.input-wrap .ch-input:focus,
+.select-wrap .ch-select:focus {
+  outline: none;
+  border-color: rgb(25, 123, 189);
+  box-shadow: rgb(25, 123, 189) 0px 0px 0px 1px;
+}
+.form-control-custom {
+  display: block;
+  width: 100%;
+  padding: 12px 18px;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: rgb(73, 80, 87);
+  background-color: rgb(255, 255, 255);
+  background-clip: padding-box;
+  border: 1px solid rgb(206, 212, 218);
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+#cc-id-xrG9jFRSi07N {
+  margin-right: 6px;
+}
+.fk-background {
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: cover;
+}
+.fk-card-four {
+  background-image: url("https://assets.checkoutchamp.com/226de040-f3d2-11eb-8d0a-736fec5a0e07/1705090047896_discover1.png");
+}
+.fk-card-payment-bg-icon {
+  margin-left: 5px;
+  padding: 5px;
+  min-height: 25px;
+  min-width: 40px;
+}
+.fk-card-payment-bg-icon-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 40px;
+}
+#cc-id-RcEfdnR1WlZI {
+  width: 200px;
+  height: 45px;
+}
+.btnApplePay {
+  background-repeat: no-repeat;
+  background-position: center center;
+  border: none;
+  background-color: transparent;
+  width: 200px;
+  height: 75px;
+  color: transparent !important;
+}
+.btnApplePay:focus {
+  box-shadow: none;
+}
+.btn-apple-pay-black-styles {
+  padding: 30px 75px;
+}
+#cc-id-4D2vGO1FTtwS {
+  max-width: 100%;
+  width: 200px;
+  height: 45px;
+  padding: 6px 12px;
+  background-size: cover;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#cc-id-30Bf6qzJoIby {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#cc-id-I4dHi3Kh3KLD {
+  border-color: rgb(222, 222, 222);
+  margin-bottom: 0px;
+}
+#otherpayments {
+  padding-bottom: 17px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-color: rgb(222, 222, 222);
+  display: flex;
+}
+#cc-id-eQJPf8BcrPun {
+  width: 200px;
+  height: 45px;
+  margin-left: 10px;
+}
+.klarnaButton {
+  background-image: url("https://config.checkoutchamp.com/production/klarna-checkout.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  border-width: 1px;
+  border-color: black;
+  background-color: transparent;
+  color: transparent !important;
+}
+.klarnaButton:focus {
+  box-shadow: none;
+}
+.klarna-button-styles {
+  background-size: contain;
+  padding: 6px 12px;
+}
+#cc-id-4p7EPQHyD5SG {
+  max-width: 100%;
+  width: 200px;
+  height: 45px;
+  padding: 6px 12px;
+  background-size: contain;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(255, 179, 199);
+}
+#cc-id-td63JpyPMLD4 {
+  margin-right: 6px;
+  height: auto;
+  color: black;
+  width: 50px;
+}
+#cc-id-yoLE8DYH6jOa {
+  color: black;
+  height: 48px;
+  width: 48px;
+}
+.fk-image-defaults {
+  width: 150px;
+  height: 150px;
+  max-width: 100%;
+}
+@media (max-width: 1070px) {
+  #inus1 {
+    padding-left: 1px;
+    padding-right: 1px;
+    max-width: 992px;
+  }
+}
+@media (max-width: 1024px) {
+  #iqxgi {
+    text-align: left;
+  }
+}
+@media (max-width: 1023px) {
+  .ch-express-checkout-group-or-line {
+    margin-top: 28px;
+  }
+  #shipping {
+    padding-bottom: 20px;
+  }
+  .basic-information-section {
+    opacity: 1;
+    filter: none;
+    transition: height 300ms cubic-bezier(0.3, 0, 0, 1),
+      visibility 300ms cubic-bezier(0.3, 0, 0, 1);
+  }
+  .basic-information-section .section-title {
+    display: none;
+  }
+  .basic-information-section .CE__line-items {
+    margin-top: 21px;
+  }
+  .ms-collapsed .basic-information-section {
+    height: 0px;
+    border-bottom: 1px solid transparent;
+  }
+  .basic-information-section.ch-collapse-section .collapsed-text {
+    display: block;
+  }
+  .basic-information-section.ch-collapse-section
+    > :not(.order-summary-collapsible-header) {
+    display: none;
+  }
+  .basic-information-section
+    .order-summary-collapsible-header
+    .collapse-action {
+    display: block;
+  }
+}
+@media (min-width: 1000px) {
+  .sidebar::after {
+    left: 0px;
+    background-position: 0% 0%;
+    box-shadow: rgb(225, 225, 225) 1px 0px 0px inset;
+  }
+}
+@media (min-width: 1024px) {
+  .basic-information-section {
+    padding-left: 2rem;
+    height: auto;
+  }
+}
+@media only screen and (max-width: 992px) {
+  #i33dp .summary-open {
+    height: 0px;
+    display: none;
+    overflow: hidden;
+    transition: 0.4s ease-in-out;
+  }
+  #i33dp {
+    margin-top: 0px;
+    padding-top: 30px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  #inus1 {
+    margin-top: 0px;
+    padding-top: 0px;
+  }
+  .sidebar::after {
+    display: none;
+  }
+  .wrap {
+    padding: 0px 1em;
+  }
+  #i80rh {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
+@media (max-width: 575px) {
+  .ch-express-checkout-group-body {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 480px) {
+  .cc-cart-row .cc-cart-row-content {
+    text-align: center;
+    font-size: 13px;
+    max-width: 100%;
+  }
+}
+@media (max-width: 425px) {
+  .tooltipper5 .tooltipper5box {
+    right: -80% !important;
+  }
+  .tooltipper4 .tooltipper4box {
+    right: -70% !important;
+  }
+  #itfnkz {
+    width: 70% !important;
+  }
+  .cc-cart-prod-qty-bubble {
+    right: 25px !important;
+  }
+}
+@media (max-width: 375px) {
+  .cc-cart-prod-qty-bubble {
+    right: 14px !important;
+  }
+}
+@media (max-width: 100%) {
+  #i6n5ji {
+    max-width: 100%;
+    width: 200px;
+    height: 45px;
+    padding: 6px 12px;
+    background-size: contain;
+  }
+  #icxbrw {
+    max-width: 100%;
+    width: 200px;
+    height: 45px;
+    padding: 6px 12px;
+    background-size: cover;
+  }
+}
+@media only screen and (min-width: 778px) {
+  #cc-id-XNE4Rm21mXTM {
+    display: none;
+  }
+  #i5l5r7 {
+    display: none;
+  }
+  #cc-id-8t1J2Lvxpp8t {
+    display: none;
+  }
+}
+@media (max-width: 992px) {
+  #i0y3bh {
+    display: flex;
+  }
+  #i6n5ji {
+    max-width: 100%;
+    width: 200px;
+    height: 45px;
+    padding: 6px 12px;
+    background-size: contain;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  #icxbrw {
+    max-width: 100%;
+    width: 200px;
+    height: 45px;
+    padding: 6px 12px;
+    background-size: cover;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  #id4vz-2 {
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  #i9n3rb {
+    padding-left: 7px;
+    padding-right: 7px;
+  }
+  #fkt-link-f06-9bd-9fa {
+    margin-left: 1px;
+  }
+  #i44ay3 {
+    display: none;
+  }
+  #ihjw8n {
+    display: block;
+  }
+  #i8r4vf {
+    margin-left: 102px;
+    margin-right: 102px;
+  }
+  #i33dp {
+    display: flex;
+  }
+  #itfnkz {
+    width: 80%;
+  }
+  #cc-id-YmRsQPQzoakc {
+    text-align: right;
+  }
+  #cc-id-vsuv1XTNpBXP {
+    justify-content: center;
+    align-items: flex-end;
+  }
+}
+@media only screen and (min-width: 610px) and (max-width: 778px) {
+  #cc-id-XNE4Rm21mXTM {
+    display: none;
+  }
+  #i5l5r7 {
+    display: none;
+  }
+  #cc-id-8t1J2Lvxpp8t {
+    display: none;
+  }
+}
+@media (max-width: 768px) {
+  .fk-row {
+    flex-wrap: wrap;
+  }
+  .fk-footer-row .fk-col {
+    width: 100%;
+  }
+  footer > div.fk-footer-row {
+    flex-wrap: wrap;
+  }
+  #i6n5ji {
+    max-width: 100%;
+    width: 200px;
+    height: 45px;
+    padding: 6px 12px;
+    background-size: contain;
+  }
+  #icxbrw {
+    max-width: 100%;
+    width: 200px;
+    height: 45px;
+    padding: 6px 12px;
+    background-size: cover;
+  }
+  .fk-col {
+    flex-basis: 100%;
+    display: block;
+  }
+  #i8r4vf {
+    margin-left: 18px;
+    margin-right: 18px;
+  }
+  #ihacf {
+    padding-left: 18px;
+  }
+  #itfnkz {
+    width: 79%;
+  }
+}
+@media only screen and (min-width: 490px) and (max-width: 610px) {
+  #cc-id-XNE4Rm21mXTM {
+    display: none;
+  }
+  #i5l5r7 {
+    display: none;
+  }
+  #cc-id-8t1J2Lvxpp8t {
+    display: none;
+  }
+}
+@media (max-width: 600px) {
+  #itfnkz {
+    width: 74%;
+  }
+  #i6n5ji {
+    max-width: 100%;
+    width: 200px;
+    height: 45px;
+    padding: 6px 12px;
+    background-size: contain;
+  }
+  #icxbrw {
+    max-width: 100%;
+    width: 200px;
+    height: 45px;
+    padding: 6px 12px;
+    background-size: cover;
+  }
+  #fkt-image-0d4-2bc-8bc {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  #id4vz-2 {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  #cc-id-4D2vGO1FTtwS {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+@media only screen and (min-width: 375px) and (max-width: 490px) {
+  #cc-id-XNE4Rm21mXTM {
+    display: none;
+  }
+  #i5l5r7 {
+    display: none;
+  }
+  #cc-id-8t1J2Lvxpp8t {
+    display: none;
+  }
+}
+@media (max-width: 480px) {
+  .tooltipper5 .tooltipper5box {
+    right: -80% !important;
+  }
+  .tooltipper4 .tooltipper4box {
+    right: -50% !important;
+  }
+  #itfnkz {
+    width: 70%;
+  }
+  .cc-cart-prod-qty-bubble {
+    right: 25px !important;
+  }
+  #i80rh {
+    width: 100%;
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+  #i33dp {
+    width: 100%;
+    padding: 1px;
+  }
+  #i4deo6 {
+    text-align: left;
+  }
+  #io93e {
+    padding: 0px;
+    margin: 0px;
+  }
+  #shipping {
+    padding-left: 1px;
+    display: flex;
+  }
+  .fk-shopping-cart .cart-display {
+    margin-right: 10%;
+  }
+  #ie3z3b {
+    background-color: rgb(66, 133, 244);
+  }
+  #ih8fj9 {
+    border-bottom-right-radius: 0px;
+  }
+  #i9n3rb {
+    text-align: left;
+  }
+  #i6n5ji {
+    max-width: 100%;
+    width: 200px;
+    height: 45px;
+    padding: 6px 12px;
+    background-size: contain;
+  }
+  #icxbrw {
+    max-width: 100%;
+    width: 200px;
+    height: 45px;
+    padding: 6px 12px;
+    background-size: cover;
+  }
+  #i8r4vf {
+    margin-left: 1px;
+    margin-right: 1px;
+  }
+  #izx1bw {
+    font-size: 14px;
+    padding-left: 10px;
+    text-align: left;
+  }
+  #ih7y4i {
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  #cc-id-yjVyLrCdxGJw {
+    margin-left: 40px;
+  }
+  #cc-id-yCXCYWM6JH0G {
+    margin-left: 1px;
+    margin-right: 1px;
+  }
+  .fk-card-payment-bg-icon-container {
+    padding-right: 10px;
+  }
+  #cc-id-tufuIpXHba7M {
+    text-align: left;
+  }
+  #cc-id-Iztc7g7p6ljv {
+    text-align: left;
+  }
+  #ihacf {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  #cc-id-IIMSPNZ4azfb {
+    font-size: 14px;
+    display: block;
+  }
+}
+@media only screen and (max-width: 375px) {
+  #cc-id-XNE4Rm21mXTM {
+    display: none;
+  }
+  #i5l5r7 {
+    display: none;
+  }
+  #cc-id-8t1J2Lvxpp8t {
+    display: none;
+  }
+}
